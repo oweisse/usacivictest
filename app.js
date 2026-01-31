@@ -193,8 +193,16 @@ document.addEventListener('DOMContentLoaded', () => {
         // Save state
         localStorage.setItem('civics_last_question_id', q.id);
 
-        // Force scroll to top at the very end
-        if (els.cardContent) els.cardContent.scrollTop = 0;
+        // Force scroll to top at the very end (async to ensure layout is done)
+        const resetScroll = () => {
+            if (els.cardContent) els.cardContent.scrollTop = 0;
+            window.scrollTo(0, 0);
+        };
+        requestAnimationFrame(() => {
+            resetScroll();
+            // Double-check after a tick for mobile browsers
+            setTimeout(resetScroll, 10);
+        });
     }
 
     function showAnswer(shouldFocus = true) {
