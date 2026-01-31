@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Elements
     const els = {
         questionText: document.getElementById('question-text'),
+        cardContent: document.querySelector('.card-content'),
         answersList: document.getElementById('answers-list'),
         answerSection: document.getElementById('answer-section'),
         questionCounter: document.getElementById('question-counter'),
@@ -108,6 +109,9 @@ document.addEventListener('DOMContentLoaded', () => {
         els.answerSection.classList.add('hidden');
         els.btnShowAnswer.classList.remove('hidden');
         els.btnNext.classList.add('hidden');
+
+        // Reset Scroll
+        if (els.cardContent) els.cardContent.scrollTop = 0;
 
         // Content
         els.questionText.textContent = `${q.id}. ${q.question}`;
