@@ -37,10 +37,11 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     // Load Data
-    fetch('questions.json?v=' + Date.now())
-        .then(res => res.json())
-        .then(data => {
-            state.questions = data;
+    Promise.all([
+        fetch('questions.json?v=' + Date.now()).then(res => res.json())
+    ])
+        .then(([questionsData]) => {
+            state.questions = questionsData;
             initSequence();
 
             // Restore state?
@@ -139,8 +140,20 @@ document.addEventListener('DOMContentLoaded', () => {
             expandBtn.title = 'Read historical context';
             expandBtn.setAttribute('aria-expanded', 'false');
 
+            // Gemini Button
+            const { btn: geminiBtn, contentDiv: geminiDiv } = createGeminiButton(q, a);
+
             mainContent.appendChild(textSpan);
-            mainContent.appendChild(expandBtn);
+
+            // Wrapper for buttons
+            const btnGroup = document.createElement('div');
+            btnGroup.className = 'answer-actions';
+            btnGroup.appendChild(geminiBtn);
+            btnGroup.appendChild(expandBtn);
+
+            mainContent.appendChild(btnGroup);
+
+            // Gemini Content logic moved to end of list item
 
             // Story container
             const storyDiv = document.createElement('div');
@@ -172,6 +185,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
             li.appendChild(mainContent);
             li.appendChild(storyDiv);
+
+            // Append Gemini Content (removed)
+
             els.answersList.appendChild(li);
         });
 
@@ -364,6 +380,47 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function handleScrubEnd() {
         isScrubbing = false;
+    }
+
+    function createGeminiButton(q, a) {
+        let btn;
+
+        // "Ask Gemini" Button (Online Copy-Paste)
+        btn = document.createElement('button');
+        btn.className = 'gemini-toggle-btn'; // Use the pretty style
+        btn.title = 'Copy prompt and open Gemini';
+        btn.innerHTML = `<span>Ask Gemini</span>`; // Text + Icon via CSS or we can add SVG back if desired, but CSS has ::before content "✨"
+
+        // Let's make it explicit with the SVG icon to match "start botton" description if they meant Star
+        // Actually, the previous CSS `gemini-toggle-btn::before` adds a sparkle.
+        // Let's stick to the text "Ask Gemini" and letting the CSS add the sparkle.
+        // Or better, let's keep the user's "start botton" request in mind.
+        // I will use the SVG from the fallback but wrapped in the pretty class.
+
+        btn.innerHTML = `
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="margin-right:4px">
+                <path d="M12 2L15 9L22 12L15 15L12 22L9 15L2 12L9 9L12 2Z" fill="currentColor" stroke="none"/>
+            </svg>
+            Ask Gemini
+        `;
+
+        btn.addEventListener('click', async (e) => {
+            e.stopPropagation();
+            const prompt = `US civic test. For the question "${q.question}" the answer is "${a.text}" - please elaborate`;
+            try {
+                await navigator.clipboard.writeText(prompt);
+                const originalHTML = btn.innerHTML;
+                btn.innerHTML = '<span>Copied!</span>';
+                window.open('https://gemini.google.com/app', '_blank');
+                setTimeout(() => {
+                    btn.innerHTML = originalHTML;
+                }, 2000);
+            } catch (err) {
+                window.open('https://gemini.google.com/app', '_blank');
+            }
+        });
+
+        return { btn, contentDiv: null };
     }
 
     // Event Listeners

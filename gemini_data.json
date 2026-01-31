@@ -1,0 +1,665 @@
+{
+  "1": {
+    "Constitution": "The Constitution is the supreme law of the United States. It established our national government and fundamental laws, and guaranteed certain basic rights for its citizens. It was signed on September 17, 1787, by delegates to the Constitutional Convention in Philadelphia.",
+    "Republic": "A republic is a form of government where the country is considered a 'public matter', not the private concern or property of the rulers. The primary positions of power within a republic are attained through democracy or a mix of democracy with oligarchy or autocracy rather than being unalterably occupied by any given family lineage or group.",
+    "Constitution-based federal republic": "This means the United States has a Constitution that is the supreme law, and power is shared between the federal government and the state governments. 'Federal' refers to this sharing of power, while 'Republic' means we elect representatives.",
+    "Representative democracy": "In a representative democracy, our government is elected by citizens. Citizens vote for their government officials who represent the citizens' ideas and concerns in government."
+  },
+  "2": {
+    "(U.S.) Constitution": "The Constitution is the supreme law of the land because no other law can contradict it. If a state or federal law conflicts with the Constitution, the Constitution wins. It establishes the framework for the entire federal government and protects the rights of the people."
+  },
+  "3": {
+    "Forms the government": "The Constitution establishes the three branches of government: the Legislative (Congress), the Executive (President), and the Judicial (Supreme Court). It sets up how they work and how they interact with each other.",
+    "Defines powers of government": "It specifically lists what the federal government can do, such as print money, declare war, and regulate trade. This limits the government's power to only what is written.",
+    "Defines the parts of government": "It creates the offices of the President, the Senate, the House of Representatives, and the Supreme Court, defining who can hold these offices and what their duties are.",
+    "Protects the rights of the people": "Through the Bill of Rights (the first 10 amendments) and subsequent amendments, the Constitution guarantees fundamental rights like freedom of speech, religion, and the press, ensuring the government cannot infringe upon them."
+  },
+  "4": {
+    "Self-government": "\u201cWe the People\u201d clearly states that the government's power comes from the citizens themselves, not from a king or a divine ruler. It emphasizes that the people have the right to govern themselves.",
+    "Popular sovereignty": "This is the principle that the authority of a state and its government are created and sustained by the consent of its people, through their elected representatives.",
+    "Consent of the governed": "The government exists only because the people have given it permission to exist. If the government fails to serve the people, the people have the right to change it.",
+    "People should govern themselves": "It reflects the revolutionary idea that ordinary people are capable of managing their own political affairs and destiny.",
+    "(Example of) social contract": "The Constitution acts as a contract between the people and the government: the people agree to follow the laws, and in exchange, the government agrees to protect their rights and liberties."
+  },
+  "5": {
+    "Amendments": "An amendment is a formal change or addition to the US Constitution. It allows the Constitution to adapt to changing times without rewriting the entire document.",
+    "The amendment process": "Article V of the Constitution outlines how to change it. It is a difficult process requiring 2/3 vote in both Houses of Congress and ratification by 3/4 of the states, ensuring that changes are widely supported."
+  },
+  "6": {
+    "(The basic) rights of Americans": "The Bill of Rights guarantees fundamental freedoms such as speech, religion, assembly, and the right to a fair trial. These are considered essential for a free society.",
+    "(The basic) rights of people living in the United States": "Most rights in the Bill of Rights apply to everyone in the U.S., regardless of citizenship status, such as due process and protection from unreasonable search and seizure."
+  },
+  "7": {
+    "Twenty-seven (27)": "Since 1787, over 11,000 amendments have been proposed, but only 27 have been ratified. This demonstrates the stability of the Constitution and the high bar set for changing the supreme law of the land."
+  },
+  "8": {
+    "It says America is free from British control.": "The Declaration of Independence was a formal statement adopted by the Second Continental Congress on July 4, 1776, announcing that the thirteen American colonies were no longer under British rule.",
+    "It says all people are created equal.": "This famous phrase established a moral standard for the US, asserting that every human being has inherent worth and dignity, a radical idea at the time.",
+    "It identifies inherent rights.": "It claims that rights are 'unalienable,' meaning they are given by God or nature and cannot be taken away by any government.",
+    "It identifies individual freedoms.": "The document lists 'Life, Liberty and the pursuit of Happiness' as examples of these unalienable rights, shifting the focus of government to protecting individual happiness."
+  },
+  "9": {
+    "Declaration of Independence": "Written largely by Thomas Jefferson, this document severed the political connections between the thirteen original American colonies and Great Britain, marking the birth of the United States."
+  },
+  "10": {
+    "Equality": "The idea that everyone is entitled to the same rights and treatment under the law, and that no one is born with a special status to rule over others.",
+    "Liberty": "The state of being free within society from oppressive restrictions imposed by authority on one's way of life, behavior, or political views.",
+    "Social contract": "The view that persons' moral and/or political obligations are dependent upon a contract or agreement among them to form the society in which they live.",
+    "Natural rights": "Rights that are not dependent on the laws or customs of any particular culture or government, and so are universal and inalienable.",
+    "Limited government": "A political system where the force of government is restricted through delegated and enumerated powers, protecting individual liberty.",
+    "Self-government": "The concept that the people are the ultimate source of government authority and should participate in the decision-making process."
+  },
+  "11": {
+    "Declaration of Independence": "This phrase appears in the Preamble of the Declaration of Independence. It encapsulates the American dream: that you have the right to live, to be free, and to seek your own fulfillment."
+  },
+  "12": {
+    "Capitalism": "An economic system where private individuals and businesses own capital goods. The production of goods and services is based on supply and demand in the general market.",
+    "Free market economy": "A system where the prices for goods and services are determined by the open market and consumers, in which the laws and forces of supply and demand are free from any intervention by a government or other authority."
+  },
+  "13": {
+    "Rule of law": "The principle that all people and institutions are subject to and accountable to law that is fairly applied and enforced; the principle of government by law.",
+    "Everyone must follow the law": "No individual, president, or private citizen is above the law. It ensures equality and prevents the abuse of power.",
+    "Leaders must obey the law": "Government officials are bound by the same laws as the citizens they serve, preventing tyranny.",
+    "Government must obey the law": "The government itself can be held accountable if it violates the rights of citizens or acts outside its legal authority.",
+    "No one is above the law": "This is the core concept of the Rule of Law: status, wealth, or power do not grant immunity from justice."
+  },
+  "14": {
+    "Checks and balances": "A system that allows each branch of government to amend or veto acts of another branch so as to prevent any one branch from exerting too much power.",
+    "Separation of powers": "The division of government responsibilities into distinct branches to limit any one branch from exercising the core functions of another.",
+    "Federalism": "The distribution of power in an organization (such as a government) between a central authority and the constituent (state) units."
+  },
+  "15": {
+    "Legislative": "The branch of government that makes laws. In the US, this is Congress.",
+    "Executive": "The branch of government that enforces laws. This includes the President, Vice President, and the Cabinet.",
+    "Judicial": "The branch of government that interprets laws. This includes the Supreme Court and other federal courts."
+  },
+  "16": {
+    "The division of powers": "This refers to the separation of responsibilities between the federal government and the state governments (Federalism) or the three branches (Legislative, Executive, Judicial) to prevent tyranny.",
+    "Checks and balances": "Each branch has specific powers to 'check' the other two, ensuring that power remains balanced. For example, the President can veto laws, but Congress can override the veto."
+  },
+  "17": {
+    "The President": "The President is the head of the Executive Branch, responsible for implementing and enforcing the laws written by Congress.",
+    "The Vice President": "The Vice President is the second-highest officer in the executive branch and presides over the Senate.",
+    "The Cabinet": "An advisory body made up of the heads of the 15 executive departments. They are appointed by the President and confirmed by the Senate."
+  },
+  "18": {
+    "Congress": "The legislative branch of the US federal government, composed of the House of Representatives and the Senate.",
+    "Senate and House (of Representatives)": "The two chambers of Congress. The Senate represents states equally, while the House represents the population.",
+    "(U.S. or national) legislature": "Another name for Congress, the body that creates federal laws."
+  },
+  "19": {
+    "Senate": "The upper house of Congress. It has 100 members, 2 from each state. It has special powers like confirming appointments and ratifying treaties.",
+    "House (of Representatives)": "The lower house of Congress. It has 435 voting members, with representation based on state population. It has the power to initiate revenue bills."
+  },
+  "20": {
+    "The Senate": "One of the two chambers of the United States Congress. Each state is represented by two senators, regardless of population, emphasizing the equality of states.",
+    "The House (of Representatives)": "The other chamber of Congress, where representation is based on the number of people living in each state, emphasizing the voice of the people."
+  },
+  "21": {
+    "One hundred (100)": "There are exactly 2 senators from each of the 50 states, totaling 100. This ensures that every state, regardless of size, has an equal voice in the Senate."
+  },
+  "22": {
+    "Six (6) years": "Senators serve 6-year terms, which is longer than the 2-year term of House members. This longer term allows them to focus on long-term policy rather than constant campaigning."
+  },
+  "23": {
+    "Answers will vary. [District of Columbia residents and residents of U.S. territories should answer that D.C. (or the territory where the applicant lives) has no U.S. senators.]": "Your specific Senators depend on which state you live in. You can find their names on the official Senate website senate.gov. Remember, Senators represent your entire state."
+  },
+  "24": {
+    "Four hundred thirty-five (435)": "The number of representatives is fixed by law at 435. This number is divided among the states based on their population. Larger states get more representatives."
+  },
+  "25": {
+    "Two (2) years": "Representatives serve very short 2-year terms. This was designed by the Founding Fathers to ensure they remain responsive to the changing opinions and needs of the people in their local districts."
+  },
+  "26": {
+    "To more closely follow public opinion": "Because they must run for re-election every two years, Representatives must constantly listen to their voters to keep their jobs. This makes the House the 'People's House'."
+  },
+  "27": {
+    "Two (2)": "The Constitution guarantees every state exactly two Senators. This prevents large states from completely dominating the legislative process."
+  },
+  "28": {
+    "Equal representation (for small states)": "Without this rule, small states might never have joined the Union, fearing they would be ignored by larger states with more people.",
+    "The Great Compromise (Connecticut Compromise)": "This compromise solved the biggest argument at the Constitutional Convention: large states wanted representation by population, small states wanted equality. We got both (House vs Senate)."
+  },
+  "29": {
+    "Answers will vary. [Residents of territories with nonvoting Delegates or Resident Commissioners may provide the name of that Delegate or Commissioner. Also acceptable is any statement that the territory has no (voting) representatives in Congress.]": "Your Representative depends on your specific congressional district within your state. You can find them by entering your zip code at house.gov."
+  },
+  "30": {
+    "Mike Johnson": "The Speaker of the House is the leader of the House of Representatives and is second in line to the Presidency after the Vice President. (Note: This name changes, check reliable news for the current Speaker)."
+  },
+  "31": {
+    "Citizens of their state": "A Senator works for every single person in their state, balancing the needs of cities, rural areas, and everything in between.",
+    "People of their state": "Unlike a Representative who focuses on a local district, a Senator must consider the good of the entire state."
+  },
+  "32": {
+    "Citizens from their state": "Originally, state legislatures picked Senators. The 17th Amendment (1913) changed this to a direct popular vote, giving more power to the people."
+  },
+  "33": {
+    "Citizens in their (congressional) district": "A district is a specific geographic area. The Representative focuses on the specific needs of that community.",
+    "Citizens in their district": "They act as the voice for their local constituents in the federal government.",
+    "People from their (congressional) district": "This creates a direct link between a specific neighborhood and Washington D.C.",
+    "People in their district": "Each district has roughly 700,000 people. The Representative is expected to know the specific issues affecting those people."
+  },
+  "34": {
+    "Citizens from their (congressional) district": "Only people living in the district can vote for that district's Representative, ensuring local control."
+  },
+  "35": {
+    "(Because of) the state\u2019s population": "Representation in the House is proportional. More people means more tax-payers and more needs, so they get more votes in the House.",
+    "(Because) they have more people": "This ensures that every individual person's vote has roughly equal weight in the House, regardless of which state they live in.",
+    "(Because) some states have more people": "The Census counts the population every 10 years to adjust these numbers (reapportionment)."
+  },
+  "36": {
+    "Four (4) years": "The President serves a 4-year term. The 22nd Amendment limits a President to two elected terms (8 years total)."
+  },
+  "37": {
+    "November": "We vote on the first Tuesday after the first Monday in November. This tradition dates back to the 1800s when America was largely simplified farmers and needed time to travel to the polls after harvest."
+  },
+  "38": {
+    "Answers will vary.": "The current President is the head of the Executive Branch. You should memorize the name of the current serving President."
+  },
+  "39": {
+    "Answers will vary.": "The Vice President serves as the President of the Senate and is first in line to succeed the President. You should know the name of the current Vice President."
+  },
+  "40": {
+    "The Vice President": "If the President dies, resigns, or is removed, the Vice President immediately becomes President to ensure the government continues to function."
+  },
+  "41": {
+    "Signs bills into law": "After Congress passes a bill, the President must sign it for it to become official law.",
+    "Vetoes bills": "If the President disagrees with a bill, they can send it back to Congress with a veto, checking the power of the legislative branch.",
+    "Enforces laws": "The President is responsible for making sure that the laws passed by Congress are actually followed and implemented across the country.",
+    "Commander in Chief (of the military)": "The President is the supreme commander of all US armed forces, ensuring civilian control over the military.",
+    "Chief diplomat": "The President represents the United States to the rest of the world, meeting with foreign leaders and negotiating treaties.",
+    "Appoints federal judges": "The President selects judges for federal courts, but the Senate must approve them. This shapes the court system for decades."
+  },
+  "42": {
+    "The President (of the United States)": "The Constitution places the military under the control of a civilian elected official (the President) to prevent military rule."
+  },
+  "43": {
+    "The President (of the United States)": "A bill passed by both the House and Senate is presented to the President. If approved and signed, it becomes the law of the land."
+  },
+  "44": {
+    "The President (of the United States)": "The veto power gives the President a major role in legislation, forcing Congress to negotiate and compromise."
+  },
+  "45": {
+    "The President (of the United States)": "The President nominates judges who share their philosophy, but the Senate acts as a check to ensure they are qualified."
+  },
+  "46": {
+    "President (of the United States)": "The President leads the executive branch and enforces federal laws.",
+    "Cabinet": "The Cabinet consists of the Vice President and the heads of 15 executive departments who advise the President on any subject he may require relating to the duties of each member's respective office.",
+    "Federal departments and agencies": "These are the organizations that handle the day-to-day business of government, from delivering mail (USPS) to protecting the environment (EPA)."
+  },
+  "47": {
+    "Advises the President (of the United States)": "Cabinet members are experts in their fields (like defense, treasury, or education) who help the President make informed decisions on complex issues."
+  },
+  "48": {
+    "Attorney General": "Head of the Department of Justice. Responsible for enforcing federal laws and representing the US government in court.",
+    "Secretary of Agriculture": "Oversees the American farming industry, food quality, and nutrition programs like WIC and SNAP.",
+    "Secretary of Commerce": "Promotes economic growth, supports US businesses, and manages trade policy.",
+    "Secretary of Education": "Establishes policy for, administers and coordinates most federal assistance to education.",
+    "Secretary of Energy": "Manages nuclear weapons programs, energy research, and radioactive waste disposal.",
+    "Secretary of Health and Human Services": "Protects the health of all Americans and provides essential human services.",
+    "Secretary of Homeland Security": "Responsible for public security, roughly comparable to the interior ministries of other countries (border security, anti-terrorism).",
+    "Secretary of Housing and Urban Development": "Responsible for national policy and programs that address America's housing needs.",
+    "Secretary of the Interior": "Manages and conserves most federal land and natural resources.",
+    "Secretary of Labor": "Responsible for occupational safety, wage and hour standards, unemployment insurance benefits, reemployment services, and some economic statistics.",
+    "Secretary of State": "Carry out the President's foreign policies through the State Department and the Foreign Service of the United States.",
+    "Secretary of Transportation": "Responsible for helping maintain and develop the nation's transportation systems and infrastructure.",
+    "Secretary of the Treasury": "Responsible for promoting economic prosperity and ensuring the financial security of the United States.",
+    "Secretary of Veterans Affairs": "Responsible for administering benefit programs for veterans, their families, and their survivors.",
+    "Secretary of War (Defense)": " Oversees the Defense Department and acts as the principal defense policymaker and adviser.",
+    "Vice-President": "An officer next in rank to a president who serves as president in the president's absence.",
+    "Administrator of the Environmental Protection Agency": "Responsible for protecting human health and the environment.",
+    "Administrator of the Small Business Administration": "Provides support to entrepreneurs and small businesses.",
+    "Director of the Central Intelligence Agency": "Reports to the Director of National Intelligence and provides national security intelligence to senior US policymakers.",
+    "Director of the Office of Management and Budget": "The largest office within the Executive Office of the President of the United States. Produces the President's Budget.",
+    "Director of National Intelligence": "Serves as the head of the United States Intelligence Community.",
+    "United States Trade Representative": "Responsible for developing and recommending United States trade policy to the president."
+  },
+  "49": {
+    "It decides who is elected president.": "The Electoral College allows states to cast votes for the President based on the popular vote in their state.",
+    "It provides a compromise between the popular election of the president and congressional selection.": "The founders didn't fully trust a direct popular vote but also didn't want Congress to pick the President, so they created this intermediate body."
+  },
+  "50": {
+    "Supreme Court": "The Supreme Court is the final interpreter of federal constitutional law.",
+    "Federal Courts": "Federal courts hear cases involving the constitutionality of a law, cases involving the laws and treaties of the U.S. ambassadors and public ministers, etc."
+  },
+  "51": {
+    "Reviews laws": "The courts check if laws passed by Congress or states follow the Constitution.",
+    "Explains laws": "Courts interpret the meaning of laws when there is a dispute.",
+    "Resolves disputes (disagreements) about the law": "They act as a neutral referee between conflicting parties.",
+    "Decides if a law goes against the (U.S.) Constitution": "This power, called Judicial Review, allows the courts to strike down laws that violate the Constitution."
+  },
+  "52": {
+    "Supreme Court": "It is the highest federal court. No other court can overrule it."
+  },
+  "53": {
+    "Nine (9)": "There are nine Justices total. This odd number prevents tie votes in decisions."
+  },
+  "54": {
+    "Five (5)": "A majority opinion requires at least 5 out of 9 votes to become the official decision of the Court."
+  },
+  "55": {
+    "(For) life": "Justices serve for life so they can make decisions based on the law, not on what is popular or what will get them re-elected.",
+    "Lifetime appointment": "Once appointed, they hold their office as long as they demonstrate 'good behavior'.",
+    "(Until) retirement": "Justices can choose to retire when they are ready."
+  },
+  "56": {
+    "To be independent (of politics)": "They are insulated from political pressure because they never have to run for election.",
+    "To limit outside (political) influence": "This independence ensures a fair and impartial judiciary."
+  },
+  "57": {
+    "John Roberts": "John Roberts is the current Chief Justice. He is responsible for presiding over the Court and assigning who writes the opinions in cases where he is in the majority."
+  },
+  "58": {
+    "Print paper money": "A uniform currency makes trade between states much easier.",
+    "Mint coins": "Only the federal government can create legal tender.",
+    "Declare war": "War requires a unified national response, so only the federal government can declare it.",
+    "Create an army": "A national military protects the entire country from foreign threats.",
+    "Make treaties": "The U.S. must act as one nation when dealing with other countries.",
+    "Set foreign policy": "Decisions about how to interact with the world are made at the national level."
+  },
+  "59": {
+    "Provide schooling and education": "Education is traditionally a local responsibility to ensure it meets community needs.",
+    "Provide protection (police)": "Police powers are largely reserved to the states to maintain local order.",
+    "Provide safety (fire departments)": "Local safety responses are best managed by those closest to the emergency.",
+    "Give a driver\u2019s license": "States regulate driving on their own roads.",
+    "Approve zoning and land use": "Local communities decide how their land should be developed."
+  },
+  "60": {
+    "(It states that the) powers not given to the federal government belong to the states or to the people.": "This amendment reinforces the principle of federalism, limiting the federal government to only its enumerated powers."
+  },
+  "61": {
+    "Answers will vary. [District of Columbia residents should answer that D.C. does not have a governor.]": "The Governor is the chief executive of your state, similar to how the President is the chief executive of the country. You can find their name on your state's official .gov website."
+  },
+  "62": {
+    "Answers will vary. [District of Columbia residents should answer that D.C. is not a state and does not have a capital. Residents of U.S. territories should name the capital of the territory.]": "The state capital is the city where your state's government is located. For example, Sacramento for California or Albany for New York."
+  },
+  "63": {
+    "Citizens eighteen (18) and older (can vote).": "The 26th Amendment (1971) lowered the voting age because 18-year-olds were being drafted to fight in Vietnam but couldn't vote for the leaders sending them to war.",
+    "You don\u2019t have to pay (a poll tax) to vote.": "The 24th Amendment banned poll taxes, ensuring that voting is a right for all citizens, not just those who can afford it.",
+    "Any citizen can vote. (Women and men can vote.)": "The 19th Amendment (1920) was the culmination of decades of protesting by the women's suffrage movement.",
+    "A male citizen of any race (can vote).": "The 15th Amendment prohibited the government from denying the right to vote based on 'race, color, or previous condition of servitude'."
+  },
+  "64": {
+    "Citizens": "While non-citizens have many rights, the right to vote in federal elections and run for federal office is reserved exclusively for U.S. citizens.",
+    "Citizens of the United States": "Jury duty is also a responsibility reserved for citizens, ensuring that the accused are judged by a jury of their peers from the community.",
+    "U.S. citizens": "Federal jobs often require citizenship due to security clearance requirements."
+  },
+  "65": {
+    "Freedom of expression": "This allows you to express yourself artistically or symbolically (like flag burning) without government punishment.",
+    "Freedom of speech": "You can criticize the President, protest laws, or share unpopular ideas. The government cannot silence you just because they disagree.",
+    "Freedom of assembly": "You have the right to organize and attend meetings, rallies, and protests peacefully.",
+    "Freedom to petition the government": "You can formally ask the government to fix a problem or change a law.",
+    "Freedom of religion": "The government cannot force you to follow a specific religion or ban you from practicing yours.",
+    "The right to bear arms": "The Second Amendment protects the right of individuals to own firearms."
+  },
+  "66": {
+    "The United States": "The Pledge is a promise of loyalty to the country and the republican ideals it stands for.",
+    "The flag": "The flag is the physical symbol of the nation, so pledging to it is pledging to the US itself."
+  },
+  "67": {
+    "Give up loyalty to other countries": "You cannot serve two masters; you must fully commit to the United States.",
+    "Defend the (U.S.) Constitution": "You promise to protect the core principles of American democracy against all enemies.",
+    "Obey the laws of the United States": "Citizenship comes with the obligation to follow the rules of the society.",
+    "Serve in the military (if needed)": "If the nation acts in self-defense, citizens may be called upon to fight.",
+    "Serve (help, do important work for) the nation (if needed)": "This can include non-military service during emergencies.",
+    "Be loyal to the United States": "You promise to support the US above all other nations."
+  },
+  "68": {
+    "Be born in the United States, under the conditions set by the 14th Amendment": "This is 'jus soli' (right of the soil). If you are born here, you are a citizen.",
+    "Naturalize": "The process for immigrants to become citizens, involving tests, interviews, and an oath.",
+    "Derive citizenship (under conditions set by Congress)": "Children under 18 often automatically become citizens when their parents naturalize."
+  },
+  "69": {
+    "Vote": "Voting is the primary way citizens influence government decisions.",
+    "Run for office": "Any eligible citizen can seek to represent their community in government.",
+    "Join a political party": "Parties help organize voters and advance shared political goals.",
+    "Help with a campaign": "Volunteering helps candidates communicate their message to voters.",
+    "Join a civic group": "Civil society groups help improve communities outside of government.",
+    "Join a community group": "Local groups solve local problems.",
+    "Give an elected official your opinion (on an issue)": "Representatives need to hear from you to know what you want.",
+    "Contact elected officials": "Phone calls and emails are effective ways to lobby for change.",
+    "Support or oppose an issue or policy": "Public debate is healthy for democracy.",
+    "Write to a newspaper": "Publicizing your views can influence others."
+  },
+  "70": {
+    "Vote": "It is the most fundamental responsibility of a citizen in a democracy.",
+    "Pay taxes": "Taxes fund everything from the military to national parks.",
+    "Obey the law": "Following the law ensures safety and order for everyone.",
+    "Serve in the military": "Defending the Constitution is the ultimate service.",
+    "Run for office": "Serving in government is a way to give back to your community.",
+    "Work for local, state, or federal government": "Public service is a career dedicated to the common good."
+  },
+  "71": {
+    "Required by law": "The IRS enforces tax laws to ensure fairness.",
+    "All people pay to fund the federal government": "Without taxes, the government could not function.",
+    "Required by the (U.S.) Constitution (16th Amendment)": "The 16th Amendment gives Congress the specific power to tax income.",
+    "Civic duty": "It is the price we pay for a civilized society."
+  },
+  "72": {
+    "Required by law": "Failure to register is a crime and can affect student aid and federal employment.",
+    "Civic duty": "It ensures the burden of defense is shared fairly if a draft becomes necessary.",
+    "Makes the draft fair, if needed AMERICAN HISTORY": "A lottery system based on registration is fairer than arbitrary selection."
+  },
+  "73": {
+    "Freedom": "Colonists sought to escape the rigid class structures of Europe.",
+    "Political liberty": "They wanted to govern themselves in local assemblies.",
+    "Religious freedom": "Many colonies were founded specifically as safe havens for persecuted religious groups (like Quakers in PA, Catholics in MD).",
+    "Economic opportunity": "Land was cheap and plentiful in America compared to Europe.",
+    "Escape persecution": "People fled political or religious oppression."
+  },
+  "74": {
+    "American Indians": "Diverse cultures and nations existed across the continent for thousands of years before Columbus.",
+    "Native Americans": "They helped early European settlers survive but were later displaced by them."
+  },
+  "75": {
+    "Africans": "The first enslaved Africans were brought to Jamestown in 1619.",
+    "People from Africa": "The Transatlantic Slave Trade forcibly moved millions to the Americas to work on plantations."
+  },
+  "76": {
+    "American Revolution": "The war lasted from 1775 to 1783.",
+    "The (American) Revolutionary War": "The underdog colonists defeated the most powerful empire in the world.",
+    "War for (American) Independence": "The conflict secured the independence declared in 1776."
+  },
+  "77": {
+    "High taxes": "The costs of the French and Indian War led Britain to tax the colonies heavily.",
+    "Taxation without representation": "This was the central slogan: colonists believed they couldn't be taxed by a Parliament where they had no voice.",
+    "British soldiers stayed in Americans\u2019 houses (boarding, quartering)": "The Quartering Acts were seen as a violation of property rights.",
+    "They did not have self-government": "Britain suspended colonial legislatures and appointed royal governors.",
+    "Boston Massacre": "The killing of civilians by soldiers inflamed anti-British sentiment.",
+    "Boston Tea Party (Tea Act)": "A direct action protest against the British tea tax monopoly.",
+    "Stamp Act": "The first direct tax on the colonies, inciting widespread protest.",
+    "Sugar Act": "Cracked down on smuggling and increased taxes on imports.",
+    "Townshend Acts": "A series of taxes that led to the occupation of Boston by British troops.",
+    "Intolerable (Coercive) Acts": "Punitive laws that united the colonies in support of Massachusetts."
+  },
+  "78": {
+    "(Thomas) Jefferson": "Jefferson's eloquent writing justified the revolution to the world."
+  },
+  "79": {
+    "July 4, 1776": "The date the Continental Congress approved the final text of the Declaration."
+  },
+  "80": {
+    "(Battle of) Bunker Hill": "A moral victory for the Americans, causing heavy British casualties.",
+    "Declaration of Independence": "The political turning point of the revolution.",
+    "Washington Crossing the Delaware (Battle of Trenton)": "A bold move that saved the revolution from collapse in 1776.",
+    "(Battle of) Saratoga": "The victory that proved America could win, bringing France into the war.",
+    "Valley Forge (Encampment)": "A test of endurance that forged a disciplined army.",
+    "(Battle of) Yorktown (British surrender at Yorktown)": " The final trap that forced the British to surrender."
+  },
+  "81": {
+    "New Hampshire": "The 'Granite State' was the first colony to declare independence from Great Britain in January 1776.",
+    "Massachusetts": "The cradle of the revolution, hosting the Boston Tea Party and the first battles of the war.",
+    "Rhode Island": "Founded by Roger Williams on the principle of religious toleration and separation of church and state.",
+    "Connecticut": "Its colonial charter was so progressive it was used as the state constitution until 1818.",
+    "New York": "The commercial hub of the colonies, though it had a very large Loyalist population during the war.",
+    "New Jersey": "Strategically located between NYC and Philadelphia, it saw continuous fighting throughout the war.",
+    "Pennsylvania": "Founded by William Penn as a Quaker colony, it became the meeting place for the Continental Congress.",
+    "Delaware": "It separated from Pennsylvania to become its own colony and later 'The First State' to ratify the Constitution.",
+    "Maryland": "Established as a safe haven for English Catholics fleeing persecution.",
+    "Virginia": "The oldest, largest, and most populous colony, producing four of the first five Presidents.",
+    "North Carolina": "Known for the 'Halifax Resolves', the first official action by a colony calling for independence.",
+    "South Carolina": "A wealthy colony based on rice and indigo crops; it suffered a brutal civil war between Patriots and Loyalists.",
+    "Georgia": "The youngest colony, founded in 1733 as a debtor's prison and buffer against Spanish Florida."
+  },
+  "82": {
+    "(U.S.) Constitution": "Drafted in secret in Philadelphia, it replaced the weak Articles of Confederation with a strong national government."
+  },
+  "83": {
+    "(James) Madison": "Often called the 'Father of the Constitution', he later became the 4th President.",
+    "(Alexander) Hamilton": "The first Treasury Secretary who envisioned a powerful industrial America.",
+    "(John) Jay": "The first Chief Justice of the Supreme Court and a key diplomat.",
+    "Publius": "The collective pseudonym allowed them to argue on the merits of the ideas, not their personal reputations."
+  },
+  "84": {
+    "They helped people understand the (U.S.) Constitution.": "They are still used today by judges and scholars to understand what the Founding Fathers intended.",
+    "They supported passing the (U.S.) Constitution.": "Without New York's support, the new union might have failed, so convincing NY voters was critical."
+  },
+  "85": {
+    "Founded the first free public libraries": "Franklin believed that an educated citizenry was essential for democracy.",
+    "First Postmaster General of the United States": "He established a communication network that knit the colonies together.",
+    "Helped write the Declaration of Independence": "He was the wise elder Statesman who guided the younger Jefferson.",
+    "Inventor": "He was world-famous for his experiments with electricity before he was a revolutionary.",
+    "U.S. diplomat": "His charm and celebrity in France were crucial in securing the military alliance that won the war."
+  },
+  "86": {
+    "\u201cFather of Our Country\u201d": "Washington was the one man everyone trusted. His character held the fragile new nation together.",
+    "First president of the United States": "He invented the role of President, establishing traditions like the Cabinet and the two-term limit.",
+    "General of the Continental Army": "He wasn't the greatest military tactician, but his leadership kept the army from dissolving during dark times.",
+    "President of the Constitutional Convention": "He barely spoke during the debates, but his presence gave the Convention legitimacy."
+  },
+  "87": {
+    "Writer of the Declaration of Independence": "He distilled the Enlightenment ideas of John Locke into the founding creed of America.",
+    "Third president of the United States": "His election in 1800 was the first peaceful transfer of power between opposing parties.",
+    "Doubled the size of the United States (Louisiana Purchase)": "This purchase secured the Mississippi River for trade and opened the west for expansion.",
+    "First Secretary of State": "He clashed with Hamilton over foreign policy, favoring France while Hamilton favored Britain.",
+    "Founded the University of Virginia": "He designed the campus and curriculum himself, believing in education free from religious doctrine.",
+    "Writer of the Virginia Statute on Religious Freedom": "This document was the basis for the First Amendment's protection of religious liberty."
+  },
+  "88": {
+    "\u201cFather of the Constitution\u201d": "He arrived in Philadelphia with the 'Virginia Plan', which became the blueprint for the new government.",
+    "Fourth president of the United States": "He faced the difficult task of leading a young nation into its second war with Britain.",
+    "President during the War of 1812": "The British burned the White House during his presidency, forcing him to flee the capital.",
+    "One of the writers of the Federalist Papers": "His Essay #10 is considered one of the most important political writings in history."
+  },
+  "89": {
+    "First Secretary of the Treasury": "He took the debts of the states and made them national debt, binding the states together financially.",
+    "One of the writers of the Federalist Papers": "He wrote rapidly and passionately, producing 51 essays in just a few months.",
+    "Helped establish the First Bank of the United States": "He argued that the 'necessary and proper' clause gave Congress implied powers to create a bank.",
+    "Aide to General George Washington": "Washington treated him like a son, trusting his intellect and energy famously.",
+    "Member of the Continental Congress": "He was frustrated by the weakness of the Congress and pushed for a Constitutional Convention."
+  },
+  "90": {
+    "Louisiana Territory": "Purchased for about 3 cents an acre, it was the greatest real estate deal in history.",
+    "Louisiana": "Napoleon sold it because he needed money for his wars in Europe and had lost interest in an American empire."
+  },
+  "91": {
+    "War of 1812": "Often called the 'Second War of Independence', it confirmed the US status as a sovereign nation.",
+    "Mexican-American War": "A controversial war that fulfilled the idea of 'Manifest Destiny'\u2014expanding the US to the Pacific Ocean.",
+    "Civil War": "The central tragedy of American history, resolving the questions of slavery and union.",
+    "Spanish-American War": "A short 'splendid little war' that ended Spain's colonial empire and marked the US emergence as a world power."
+  },
+  "92": {
+    "The Civil War": "It remains the deadliest war in American history, with over 600,000 soldiers killed."
+  },
+  "93": {
+    "(Battle of) Fort Sumter": "The Confederacy fired on this federal fort in Charleston Harbor, crossing the line from secession to open war.",
+    "Emancipation Proclamation": "It didn't free everyone immediately, but it encouraged slaves to run away and join the Union army.",
+    "(Battle of) Vicksburg": "It was a brilliant siege by General Grant that cut off Arkansas, Louisiana, and Texas from the rest of the South.",
+    "(Battle of) Gettysburg": "Lincoln later dedicated a cemetery here, delivering the most famous speech in US history.",
+    "Sherman\u2019s March": "General Sherman believed that to end the war, he had to break the will of the Southern people to fight.",
+    "(Surrender at) Appomattox": "The surrender was dignified; Union soldiers were ordered not to cheer, but to salute their former enemies.",
+    "(Battle of) Antietam/Sharpsburg": "The Union victory gave Lincoln the political strength to issue the Emancipation Proclamation.",
+    "Lincoln was assassinated.": "His death left the nation without its best leader during the difficult period of Reconstruction."
+  },
+  "94": {
+    "Freed the slaves (Emancipation Proclamation)": "He personally hated slavery but had to move carefully to keep the Border States in the Union.",
+    "Saved (or preserved) the Union": "He believed that democracy itself was at stake\u2014that if the US failed, government of the people would perish.",
+    "Led the United States during the Civil War": "He went through a rapid succession of generals until he found Grant, who could win the war.",
+    "16th president of the United States": "He rose from a log cabin to the White House, embodying the American Dream.",
+    "Delivered the Gettysburg Address": "In just 272 words, he explained that the war was about a 'new birth of freedom'."
+  },
+  "95": {
+    "Freed the slaves": "It fundamentally changed the legal status of over 3 million people.",
+    "Freed slaves in the Confederacy": "It was a military measure taken by the Commander-in-Chief to hurt the enemy's war effort.",
+    "Freed slaves in the Confederate states": "It allowed Black men to join the Union Army and fight for their own freedom.",
+    "Freed slaves in most Southern states": "It set the stage for the 13th Amendment, which would eventually ban slavery everywhere."
+  },
+  "96": {
+    "The Civil War": "The victory of the North ensured that the federal government would be supreme and slavery would end."
+  },
+  "97": {
+    "14th Amendment": "This is arguably the most important amendment after the Bill of Rights. It defines what a citizen is and requires states to treat everyone equally."
+  },
+  "98": {
+    "After the Civil War": "The Reconstruction era saw the first Black Congressmen elected, though these rights were later suppressed.",
+    "During Reconstruction": "Federal troops protected the rights of freedmen in the South until 1877.",
+    "(With the) 15th Amendment": "It was a radical step for the time, though it sadly did not include women.",
+    "1870": "The year the 15th Amendment was ratified, marking a major expansion of democracy."
+  },
+  "99": {
+    "Susan B. Anthony": "She spent over 50 years traveling and speaking for women's rights, never living to see the final victory.",
+    "Elizabeth Cady Stanton": "The intellectual force behind the movement, she wrote many of the speeches that Anthony delivered.",
+    "Sojourner Truth": "She challenged both racism and sexism, famously asking white women, 'Ain't I a woman?'",
+    "Harriet Tubman": "After the war, she turned her indomitable spirit toward the fight for suffrage.",
+    "Lucretia Mott": "A mentor to Elizabeth Cady Stanton, she bridged the gap between the abolitionist and women's rights movements.",
+    "Lucy Stone": "A gifted orator who convinced many people to support the cause through her powerful speeches."
+  },
+  "100": {
+    "World War I": "Introduced modern warfare with tanks, airplanes, and poison gas.",
+    "World War II": "The war against fascism and tyranny that shaped the modern world order.",
+    "Korean War": "The first hot war of the Cold War era, fought under the United Nations flag.",
+    "Vietnam War": "A guerilla war in the jungle that divided the American public deeply.",
+    "(Persian) Gulf War": "A quick, high-tech war to liberate Kuwait from Iraqi invasion in 1991."
+  },
+  "101": {
+    "Because Germany attacked U.S. (civilian) ships": "Unrestricted submarine warfare, including the sinking of the Lusitania, outraged Americans.",
+    "To support the Allied Powers (England, France, Italy, and Russia)": "The U.S. had strong economic and cultural ties to Britain and France.",
+    "To oppose the Central Powers (Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria)": "The Zimmerman Telegram, where Germany tried to ally with Mexico against the U.S., was the final straw."
+  },
+  "102": {
+    "1920": "The year the 19th Amendment was ratified, legally guaranteeing women the right to vote.",
+    "After World War I": "President Wilson supported suffrage as a 'war measure' to acknowledge women's role in the war effort.",
+    "(With the) 19 th Amendment": "It states that the right of citizens to vote shall not be denied or abridged by the United States or by any State on account of sex."
+  },
+  "103": {
+    "Longest economic recession in modern history": "It began with the Stock Market Crash of 1929 and lasted until World War II, causing widespread poverty and unemployment."
+  },
+  "104": {
+    "The Great Crash (1929)": "The stock market lost nearly 90% of its value between 1929 and 1932."
+  },
+  "105": {
+    "(Franklin) Roosevelt": "FDR is the only president to serve more than two terms. He created the 'New Deal' to help Americans during the Depression."
+  },
+  "106": {
+    "(Bombing of) Pearl Harbor": "President Roosevelt called December 7, 1941, 'a date which will live in infamy'.",
+    "Japanese attacked Pearl Harbor": "The attack destroyed much of the Pacific fleet but failed to hit the aircraft carriers.",
+    "To support the Allied Powers (England, France, and Russia)": "The U.S. was already providing supplies through the Lend-Lease Act before officially entering the war.",
+    "To oppose the Axis Powers (Germany, Italy, and Japan)": "The war was a global struggle against fascism and militarism."
+  },
+  "107": {
+    "General during World War II": "\u201cIke\u201d planned the D-Day invasion of Normandy, the largest amphibious assault in history.",
+    "President at the end of (during) the Korean War": "He campaigned on the promise 'I will go to Korea' to end the stalled conflict.",
+    "34 th president of the United States": "He warned against the 'military-industrial complex' in his farewell address."
+  },
+  "108": {
+    "Soviet Union": "An ideological rival that promoted communism and totalitarianism against Western democracy.",
+    "USSR": "Stood for Union of Soviet Socialist Republics, a massive empire spanning 11 time zones.",
+    "Russia": "The primary successor state to the Soviet Union after its collapse in 1991."
+  },
+  "109": {
+    "Communism": "The U.S. policy was 'containment'\u2014stopping the spread of communism to new countries.",
+    "Nuclear war": "The 'Cuban Missile Crisis' in 1962 was the closest the world ever came to nuclear destruction."
+  },
+  "110": {
+    "To stop the spread of communism": "The North Korean invasion of the South was seen as the first military test of the Cold War containment policy."
+  },
+  "111": {
+    "To stop the spread of communism": "The U.S. feared the 'Domino Theory'\u2014that if Vietnam fell, all of Southeast Asia would become communist."
+  },
+  "112": {
+    "Fought to end racial discrimination": "Through nonviolent protest, legal challenges, and marches, it ended legalized segregation in the South."
+  },
+  "113": {
+    "Fought for civil rights": "He advocated for civil disobedience, inspired by Mahatma Gandhi.",
+    "Worked for equality for all Americans": "His work led to the Civil Rights Act of 1964 and the Voting Rights Act of 1965.",
+    "Worked to ensure that people would \u201cnot be judged by the color of their skin, but by the content of their character\u201d": "This quote defines the American ideal of merit and equality."
+  },
+  "114": {
+    "To force the Iraqi military from Kuwait": "Operation Desert Storm was a massive coalition effort that liberated Kuwait in roughly 100 hours of ground combat."
+  },
+  "115": {
+    "Terrorists attacked the United States": "19 hijackers from Al-Qaeda carried out suicide attacks using commercial airplanes.",
+    "Terrorists took over two planes and crashed them into the World Trade Center in New York City": "The destruction of the Twin Towers killed nearly 3,000 people and traumatized the nation.",
+    "Terrorists took over a plane and crashed into the Pentagon in Arlington, Virginia": "184 people were killed at the symbol of American military power.",
+    "Terrorists took over a plane originally aimed at Washington, D.C., and crashed in a field in Pennsylvania": "Passengers on United Flight 93 stormed the cockpit, preventing the plane from hitting the Capitol or White House."
+  },
+  "116": {
+    "(Global) War on Terror": "A shift in U.S. policy to preemptively strike terrorist groups and the states that harbor them.",
+    "War in Afghanistan": "The longest war in U.S. history, launched to find Osama bin Laden and destroy Al-Qaeda.",
+    "War in Iraq": "A controversial conflict aimed at ending the regime of Saddam Hussein."
+  },
+  "117": {
+    "Apache": "Legendary warriors like Geronimo fought to protect their homeland in the Southwest.",
+    "Blackfeet": "Controlled a vast territory in Montana and were known for their powerful alliance.",
+    "Cayuga": "A member of the Iroquois Confederacy, originally from the Finger Lakes region of New York.",
+    "Cherokee": "Developed their own written language (Sequoyah) and constitution before being forced on the Trail of Tears.",
+    "Cheyenne": "Known for their Dog Soldiers society and their role in the Battle of Little Bighorn.",
+    "Chippewa": "Also known as Ojibwe, they are one of the largest tribal populations, centered around the Great Lakes.",
+    "Choctaw": "The first tribe to be forced to relocate to Oklahoma; they aided the Irish during the Potato Famine.",
+    "Creek": "Also known as Muscogee, they were a powerful confederacy in the Southeast.",
+    "Crow": "Known for their striking traditional dress and their alliance with the U.S. Army against the Sioux.",
+    "Hopi": "Farmers who have lived in the same villages in Arizona for nearly a thousand years (e.g., Oraibi).",
+    "Huron": "Also known as Wyandot, they were major traders who allied with the French.",
+    "Inupiat": "Native people of Alaska's North Slope, experts at surviving in the Arctic.",
+    "Lakota": "The stereotypical 'Plains Indian' culture with tipis and buffalo financing; warriors of Sitting Bull and Crazy Horse.",
+    "Mohawk": "Fierce warriors of the Iroquois League, now also famous for their skill as high-altitude ironworkers.",
+    "Mohegan": "A maritime tribe from Connecticut, now owners of the Mohegan Sun enterprise.",
+    "Navajo": "The 'Dine' helped win WWII with their unbreakable Code based on their complex language.",
+    "Oneida": "Known as America's 'First Allies' for fighting alongside the colonists in the Revolutionary War.",
+    "Onondaga": "The 'Keepers of the Fire' for the Iroquois Confederacy, hosting the Grand Council.",
+    "Pueblo": "Revolted against the Spanish in 1680 (Pueblo Revolt) to preserve their religion and culture.",
+    "Seminole": "The 'Unconquered People' who retreated into the Everglades and never surrendered to the U.S. government.",
+    "Seneca": "The largest nation of the Iroquois Confederacy, traditionally guarding the western frontier.",
+    "Shawnee": "Their leader Tecumseh attempted to form a massive pan-Indian alliance to stop U.S. expansion.",
+    "Sioux": "A confederation of several tribes (Lakota, Dakota, Nakota) on the Great Plains.",
+    "Teton": "The westernmost division of the Sioux, comprising seven tribal bands.",
+    "Tuscarora For a complete list of tribes, please visit bia.gov.": "Originally from the Carolinas, they migrated north to become the sixth nation of the Iroquois.",
+    "Tuscarora": "Migrated north to join the Iroquois Confederacy as the sixth nation."
+  },
+  "118": {
+    "Light bulb": "Edison tested thousands of materials before finding the right carbon filament.",
+    "Automobile (cars, internal combustion engine)": "The Model T revolutionized American life by giving freedom of movement to the average family.",
+    "Skyscrapers": "Chicago and New York raced to build higher, symbolizing American optimism and economic power.",
+    "Airplane": "From a 12-second flight at Kitty Hawk to landing on the Moon in less than 70 years.",
+    "Assembly line": "Drastically reduced the time to build a car from 12 hours to 90 minutes.",
+    "Landing on the moon": "'One small step for man, one giant leap for mankind.'",
+    "Integrated circuit (IC) SYMBOLS AND HOLIDAYS": "The microchip is the brain of every computer and phone we use today, invented by Americans Jack Kilby and Robert Noyce."
+  },
+  "119": {
+    "Washington, D.C.": "Pierre L'Enfant designed the city with wide avenues and grand circles to resemble European capitals."
+  },
+  "120": {
+    "New York (Harbor)": "A gift from France, it was the first thing millions of immigrants saw as they arrived in America.",
+    "Liberty Island [Also acceptable are New Jersey, near New York City, and on the Hudson (River).]": "Originally called Bedloe's Island, it was renamed in 1956."
+  },
+  "121": {
+    "(Because there were) 13 original colonies": "The red and white stripes honor the original foundation of the country.",
+    "(Because the stripes) represent the original colonies": "We keep the 13 stripes even as we add stars, to remember where we started."
+  },
+  "122": {
+    "(Because there is) one star for each state": "If a new state joins, a new star is added on the following July 4th.",
+    "(Because) each star represents a state": "The stars are collectively a symbol of the Union.",
+    "(Because there are) 50 states": "Hawaii was the last state added in 1959, bringing the total to 50."
+  },
+  "123": {
+    "The Star-Spangled Banner": "It didn't become the official national anthem until 1931!"
+  },
+  "124": {
+    "Out of many, one": "It refers to the 13 colonies uniting into one nation, and now refers to our diverse people forming one society.",
+    "We all become one": "America is often called a 'melting pot' where distinct cultures blend into a unified whole."
+  },
+  "125": {
+    "A holiday to celebrate U.S. independence (from Britain)": "Marked by parades, fireworks, and barbecues.",
+    "The country\u2019s birthday": "Technically the date the Declaration was adopted, not signed (which was mostly in August)."
+  },
+  "126": {
+    "New Year\u2019s Day": "A day of celebration and resolutions.",
+    "Martin Luther King, Jr. Day": "A day of service reflecting on racial equality.",
+    "Presidents Day (Washington\u2019s Birthday)": "Originally just Washington's Birthday, now honors Lincoln too.",
+    "Memorial Day": "The unofficial start of summer, but its true purpose is mourning the fallen.",
+    "Juneteenth": "The newest federal holiday, celebrating the news of freedom reaching the last slaves in Texas in 1865.",
+    "Independence Day": "The quintessential American holiday celebrating freedom.",
+    "Labor Day": "Honors the contributions of workers and the labor movement; unofficial end of summer.",
+    "Columbus Day": "A controversial holiday; many states now celebrate Indigenous Peoples' Day instead.",
+    "Veterans Day": "Originally Armistice Day (end of WWI), now honors all living veterans.",
+    "Thanksgiving Day": "A day for family, food, and gratitude.",
+    "Christmas Day": "A widely celebrated religious and secular holiday."
+  },
+  "127": {
+    "A holiday to honor soldiers who died in military service": "Remember: Memorial Day is for the dead; Veterans Day is for the living."
+  },
+  "128": {
+    "A holiday to honor people in the (U.S.) military": "We thank veterans for their service and sacrifice in protecting our freedoms.",
+    "A holiday to honor people who have served (in the U.S. military)": "There are over 18 million brave veterans living in the United States today."
+  }
+}
