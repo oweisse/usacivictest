@@ -110,9 +110,6 @@ document.addEventListener('DOMContentLoaded', () => {
         els.btnShowAnswer.classList.remove('hidden');
         els.btnNext.classList.add('hidden');
 
-        // Reset Scroll
-        if (els.cardContent) els.cardContent.scrollTop = 0;
-
         // Content
         els.questionText.textContent = `${q.id}. ${q.question}`;
 
@@ -180,7 +177,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Auto Show Answer Logic
         if (state.alwaysShow) {
-            showAnswer();
+            showAnswer(false); // Don't steal focus
         }
         // Meta
         els.questionCounter.textContent = `Question ${state.currentIndex + 1} of ${state.filteredIndices.length}`;
@@ -195,14 +192,19 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Save state
         localStorage.setItem('civics_last_question_id', q.id);
+
+        // Force scroll to top at the very end
+        if (els.cardContent) els.cardContent.scrollTop = 0;
     }
 
-    function showAnswer() {
+    function showAnswer(shouldFocus = true) {
         state.showingAnswer = true;
         els.answerSection.classList.remove('hidden');
         els.btnShowAnswer.classList.add('hidden');
         els.btnNext.classList.remove('hidden');
-        els.btnNext.focus();
+        if (shouldFocus) {
+            els.btnNext.focus();
+        }
     }
 
     function nextQuestion() {
