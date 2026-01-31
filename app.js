@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
         questions: [],
         currentIndex: 0,
         isShuffled: false,
-        is6520Mode: false,
+
         showingAnswer: false,
         alwaysShow: false,   // New flag
         alwaysExpand: false, // New flag
@@ -23,11 +23,13 @@ document.addEventListener('DOMContentLoaded', () => {
         progressBar: document.getElementById('progress-bar'),
 
         btnShowAnswer: document.getElementById('show-answer-btn'),
+        navGroup: document.getElementById('nav-group'),
         btnNext: document.getElementById('next-btn'),
+        btnPrevMain: document.getElementById('prev-main-btn'), // New button in card
         btnPrev: document.getElementById('prev-btn'),
         btnSkip: document.getElementById('skip-btn'),
 
-        btnToggle6520: document.getElementById('toggle-65-20'),
+
         btnShuffle: document.getElementById('shuffle-btn'),
         btnAlwaysShow: document.getElementById('always-show-btn'),     // New
         btnAlwaysExpand: document.getElementById('always-expand-btn'), // New
@@ -78,10 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Create base sequence [0, 1, ..., N]
         let indices = state.questions.map((_, i) => i);
 
-        // Filter?
-        if (state.is6520Mode) {
-            indices = indices.filter(i => state.questions[i].is_65_20);
-        }
+
 
         // Shuffle?
         if (state.isShuffled) {
@@ -109,7 +108,10 @@ document.addEventListener('DOMContentLoaded', () => {
         state.showingAnswer = false;
         els.answerSection.classList.add('hidden');
         els.btnShowAnswer.classList.remove('hidden');
-        els.btnNext.classList.add('hidden');
+        els.navGroup.classList.add('hidden'); // Hide the group
+
+        // Ensure buttons inside are reset if needed (not strictly necessary as we hide group)
+        // But let's make sure focus isn't lost weirdly if we render/re-render
 
         // Content
         els.questionText.textContent = `${q.id}. ${q.question}`;
@@ -225,7 +227,7 @@ document.addEventListener('DOMContentLoaded', () => {
         state.showingAnswer = true;
         els.answerSection.classList.remove('hidden');
         els.btnShowAnswer.classList.add('hidden');
-        els.btnNext.classList.remove('hidden');
+        els.navGroup.classList.remove('hidden'); // Show the group
         if (shouldFocus) {
             els.btnNext.focus();
         }
@@ -249,37 +251,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    function toggle6520() {
-        // Store current Question ID
-        let currentId = null;
-        if (state.filteredIndices.length > 0) {
-            const realIdx = state.filteredIndices[state.currentIndex];
-            if (state.questions[realIdx]) {
-                currentId = state.questions[realIdx].id;
-            }
-        }
 
-        state.is6520Mode = !state.is6520Mode;
-        els.btnToggle6520.setAttribute('aria-pressed', state.is6520Mode);
-        if (state.is6520Mode) els.btnToggle6520.classList.add('active');
-        else els.btnToggle6520.classList.remove('active');
-
-        // Re-init sequence
-        initSequence();
-        state.currentIndex = 0;
-
-        // Try to restore position
-        if (currentId !== null) {
-            // Find where this ID is in the NEW filtered list
-            // If it's not in the new list (e.g. was filtered out), stay at 0
-            const newIdx = state.filteredIndices.findIndex(idx => state.questions[idx].id === currentId);
-            if (newIdx !== -1) {
-                state.currentIndex = newIdx;
-            }
-        }
-
-        renderQuestion();
-    }
 
     function toggleShuffle() {
         // Store current Question ID
@@ -322,8 +294,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const newIndex = state.filteredIndices.findIndex(originalIndex => state.questions[originalIndex].id === val);
 
         if (newIndex === -1) {
-            if (state.is6520Mode) {
-                alert("That question is not part of the 65/20 set.");
+            if (false) {
+                // Dead code removed
             } else {
                 alert("Question not available in current mode.");
             }
@@ -426,10 +398,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // Event Listeners
     els.btnShowAnswer.addEventListener('click', showAnswer);
     els.btnNext.addEventListener('click', nextQuestion);
+    els.btnPrevMain.addEventListener('click', prevQuestion); // New listener
     els.btnSkip.addEventListener('click', nextQuestion); // Arrow uses same logic
     els.btnPrev.addEventListener('click', prevQuestion);
 
-    els.btnToggle6520.addEventListener('click', toggle6520);
     els.btnShuffle.addEventListener('click', toggleShuffle);
 
     els.btnAlwaysShow.addEventListener('click', () => {

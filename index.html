@@ -21,10 +21,7 @@
                 <p>Master the 128 questions for your citizenship.</p>
             </div>
             <div class="controls">
-                <button id="toggle-65-20" class="control-btn" aria-pressed="false"
-                    title="Toggle 65/20 Special Consideration Mode">
-                    <span class="icon">★</span> 65/20 Mode
-                </button>
+
                 <button id="shuffle-btn" class="icon-btn" title="Shuffle Questions" aria-pressed="false">
                     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M16 3h5v5M4 20L21 3M21 16v5h-5M15 15l5 5M4 4l5 5" />
@@ -75,7 +72,10 @@
 
             <div class="card-footer">
                 <button id="show-answer-btn" class="btn btn-primary">Show Answer</button>
-                <button id="next-btn" class="btn btn-secondary hidden">Next Question</button>
+                <div id="nav-group" class="nav-group hidden">
+                    <button id="prev-main-btn" class="btn btn-secondary">Previous</button>
+                    <button id="next-btn" class="btn btn-primary">Next Question</button>
+                </div>
             </div>
         </section>
 
