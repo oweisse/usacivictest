@@ -1,0 +1,2510 @@
+[
+  {
+    "id": 1,
+    "question": "What is the form of government of the United States?",
+    "answers": [
+      {
+        "text": "Republic",
+        "story": "Think of a 'Republic' like a public park—it belongs to the public, not a king. In a republic, we 'hire' people (representatives) to run the park for us. We don't have a king who owns it. This system was designed to protect the people from the tyranny of a single ruler."
+      },
+      {
+        "text": "Constitution-based federal republic",
+        "story": "Constitution-based federal republic: Think of a 'Republic' like a public park—it belongs to the public, not a king. In a republic, we 'hire' people (representatives) to run the park for us. We don't have a king who owns it. This system was designed to protect the people from the tyranny of a single ruler."
+      },
+      {
+        "text": "Representative democracy",
+        "story": "Representative democracy: Think of a 'Republic' like a public park—it belongs to the public, not a king. In a republic, we 'hire' people (representatives) to run the park for us. We don't have a king who owns it. This system was designed to protect the people from the tyranny of a single ruler."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 2,
+    "question": "What is the supreme law of the land?",
+    "answers": [
+      {
+        "text": "(U.S.) Constitution",
+        "story": "(U.S.) Constitution: Imagine the Constitution as the 'Rulebook' for the entire country. Just like in a sport, no player (president) or referee (judge) can make up rules that go against the main Rulebook. It is the highest authority that everyone must follow."
+      }
+    ],
+    "is_65_20": true
+  },
+  {
+    "id": 3,
+    "question": "Name one thing the U.S. Constitution does.",
+    "answers": [
+      {
+        "text": "Forms the government",
+        "story": "Forms the government: The Constitution is like the blueprint for a house. It lays the foundation (the government), builds the walls (the branches), and installs the locks (protections for rights) to ensure the house stands strong and safe for its residents."
+      },
+      {
+        "text": "Defines powers of government",
+        "story": "Defines powers of government: The Constitution is like the blueprint for a house. It lays the foundation (the government), builds the walls (the branches), and installs the locks (protections for rights) to ensure the house stands strong and safe for its residents."
+      },
+      {
+        "text": "Defines the parts of government",
+        "story": "Defines the parts of government: The Constitution is like the blueprint for a house. It lays the foundation (the government), builds the walls (the branches), and installs the locks (protections for rights) to ensure the house stands strong and safe for its residents."
+      },
+      {
+        "text": "Protects the rights of the people",
+        "story": "Protects the rights of the people: The Constitution is like the blueprint for a house. It lays the foundation (the government), builds the walls (the branches), and installs the locks (protections for rights) to ensure the house stands strong and safe for its residents."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 4,
+    "question": "The U.S. Constitution starts with the words “We the People.” What does “We the People” mean?",
+    "answers": [
+      {
+        "text": "Self-government",
+        "story": "Self-government: The first three words, 'We the People,' are written huge on the document to make a point: The government doesn't give power to the people; the people give power to the government. It’s a radical idea that ordinary citizens are the true bosses."
+      },
+      {
+        "text": "Popular sovereignty",
+        "story": "Popular sovereignty: The first three words, 'We the People,' are written huge on the document to make a point: The government doesn't give power to the people; the people give power to the government. It’s a radical idea that ordinary citizens are the true bosses."
+      },
+      {
+        "text": "Consent of the governed",
+        "story": "Consent of the governed: The first three words, 'We the People,' are written huge on the document to make a point: The government doesn't give power to the people; the people give power to the government. It’s a radical idea that ordinary citizens are the true bosses."
+      },
+      {
+        "text": "People should govern themselves",
+        "story": "People should govern themselves: The first three words, 'We the People,' are written huge on the document to make a point: The government doesn't give power to the people; the people give power to the government. It’s a radical idea that ordinary citizens are the true bosses."
+      },
+      {
+        "text": "(Example of) social contract",
+        "story": "(Example of) social contract: The first three words, 'We the People,' are written huge on the document to make a point: The government doesn't give power to the people; the people give power to the government. It’s a radical idea that ordinary citizens are the true bosses."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 5,
+    "question": "How are changes made to the U.S. Constitution?",
+    "answers": [
+      {
+        "text": "Amendments",
+        "story": "Amendments: The Framers knew they weren't perfect, so they added an 'Update Button' called the Amendment process. This allows the Constitution to grow and change with the times—like ending slavery or letting women vote—without having to throw out the whole government and start over."
+      },
+      {
+        "text": "The amendment process",
+        "story": "The amendment process: The Framers knew they weren't perfect, so they added an 'Update Button' called the Amendment process. This allows the Constitution to grow and change with the times—like ending slavery or letting women vote—without having to throw out the whole government and start over."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 6,
+    "question": "What does the Bill of Rights protect?",
+    "answers": [
+      {
+        "text": "(The basic) rights of Americans",
+        "story": "(The basic) rights of Americans: The Bill of Rights is a 'Do Not Touch' list for the government. It draws a line in the sand and says, 'You can govern, but you cannot touch these freedoms'—like your right to speak your mind, pray (or not) as you please, and protest."
+      },
+      {
+        "text": "(The basic) rights of people living in the United States",
+        "story": "(The basic) rights of people living in the United States: The Bill of Rights is a 'Do Not Touch' list for the government. It draws a line in the sand and says, 'You can govern, but you cannot touch these freedoms'—like your right to speak your mind, pray (or not) as you please, and protest."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 7,
+    "question": "How many amendments does the U.S. Constitution have?",
+    "answers": [
+      {
+        "text": "Twenty-seven (27)",
+        "story": "Twenty-seven (27): We've only changed the Constitution 27 times in over 230 years! That shows how hard it is to change. The first ten (Bill of Rights) came all at once in 1791. The last one took over 200 years to pass—it prevents Congress from giving themselves an immediate pay raise!"
+      }
+    ],
+    "is_65_20": true
+  },
+  {
+    "id": 8,
+    "question": "Why is the Declaration of Independence important?",
+    "answers": [
+      {
+        "text": "It says America is free from British control.",
+        "story": "It says America is free from British control.: The Declaration is like the ultimate breakup letter to a tyrannical King. It didn't just say 'we're leaving'; it explained *why*—arguably the most famous explanation of human rights in history: that we are born free and equal."
+      },
+      {
+        "text": "It says all people are created equal.",
+        "story": "It says all people are created equal.: The Declaration is like the ultimate breakup letter to a tyrannical King. It didn't just say 'we're leaving'; it explained *why*—arguably the most famous explanation of human rights in history: that we are born free and equal."
+      },
+      {
+        "text": "It identifies inherent rights.",
+        "story": "It identifies inherent rights.: The Declaration is like the ultimate breakup letter to a tyrannical King. It didn't just say 'we're leaving'; it explained *why*—arguably the most famous explanation of human rights in history: that we are born free and equal."
+      },
+      {
+        "text": "It identifies individual freedoms.",
+        "story": "It identifies individual freedoms.: The Declaration is like the ultimate breakup letter to a tyrannical King. It didn't just say 'we're leaving'; it explained *why*—arguably the most famous explanation of human rights in history: that we are born free and equal."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 9,
+    "question": "What founding document said the American colonies were free from Britain?",
+    "answers": [
+      {
+        "text": "Declaration of Independence",
+        "story": "Declaration of Independence: Adopted on July 4, 1776, this document is the birth certificate of the United States. It officially declared that the 13 colonies were no longer under British rule but were free and independent states."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 10,
+    "question": "Name two important ideas from the Declaration of Independence and the U.S. Constitution.",
+    "answers": [
+      {
+        "text": "Equality",
+        "story": "Two giant ideas: 'Equality' means no one is born a king or a peasant; we all have the same worth. 'Liberty' means you are free to live your life as you see fit, as long as you don't hurt others. These are the twin pillars of American democracy."
+      },
+      {
+        "text": "Liberty",
+        "story": "Two giant ideas: 'Equality' means no one is born a king or a peasant; we all have the same worth. 'Liberty' means you are free to live your life as you see fit, as long as you don't hurt others. These are the twin pillars of American democracy."
+      },
+      {
+        "text": "Social contract",
+        "story": "Social contract: Two giant ideas: 'Equality' means no one is born a king or a peasant; we all have the same worth. 'Liberty' means you are free to live your life as you see fit, as long as you don't hurt others. These are the twin pillars of American democracy."
+      },
+      {
+        "text": "Natural rights",
+        "story": "Natural rights: Two giant ideas: 'Equality' means no one is born a king or a peasant; we all have the same worth. 'Liberty' means you are free to live your life as you see fit, as long as you don't hurt others. These are the twin pillars of American democracy."
+      },
+      {
+        "text": "Limited government",
+        "story": "Limited government: Two giant ideas: 'Equality' means no one is born a king or a peasant; we all have the same worth. 'Liberty' means you are free to live your life as you see fit, as long as you don't hurt others. These are the twin pillars of American democracy."
+      },
+      {
+        "text": "Self-government",
+        "story": "Self-government: Two giant ideas: 'Equality' means no one is born a king or a peasant; we all have the same worth. 'Liberty' means you are free to live your life as you see fit, as long as you don't hurt others. These are the twin pillars of American democracy."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 11,
+    "question": "The words “Life, Liberty, and the pursuit of Happiness” are in what founding document?",
+    "answers": [
+      {
+        "text": "Declaration of Independence",
+        "story": "These poetic words are the soul of the American experiment. Thomas Jefferson wrote them in the Declaration of Independence to say that your right to live happy and free isn't a gift from the government—it's a gift from your Creator that no one can take away."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 12,
+    "question": "What is the economic system of the United States?",
+    "answers": [
+      {
+        "text": "Capitalism",
+        "story": "Capitalism: In a capitalist system, *you* decide what to buy and sell, not the government. It's like a giant farmers market where prices are set by how much people want things (demand) and how much is available (supply), creating competition and innovation."
+      },
+      {
+        "text": "Free market economy",
+        "story": "Free market economy: In a capitalist system, *you* decide what to buy and sell, not the government. It's like a giant farmers market where prices are set by how much people want things (demand) and how much is available (supply), creating competition and innovation."
+      }
+    ],
+    "is_65_20": true
+  },
+  {
+    "id": 13,
+    "question": "What is the rule of law?",
+    "answers": [
+      {
+        "text": "Everyone must follow the law.",
+        "story": "Everyone must follow the law.: The 'Rule of Law' means nobody gets a free pass. Whether you are the President, a billionaire, or a regular citizen, you have to follow the same laws. It’s the great equalizer that prevents corruption and tyranny."
+      },
+      {
+        "text": "Leaders must obey the law.",
+        "story": "Leaders must obey the law.: The 'Rule of Law' means nobody gets a free pass. Whether you are the President, a billionaire, or a regular citizen, you have to follow the same laws. It’s the great equalizer that prevents corruption and tyranny."
+      },
+      {
+        "text": "Government must obey the law.",
+        "story": "Government must obey the law.: The 'Rule of Law' means nobody gets a free pass. Whether you are the President, a billionaire, or a regular citizen, you have to follow the same laws. It’s the great equalizer that prevents corruption and tyranny."
+      },
+      {
+        "text": "No one is above the law.",
+        "story": "No one is above the law.: The 'Rule of Law' means nobody gets a free pass. Whether you are the President, a billionaire, or a regular citizen, you have to follow the same laws. It’s the great equalizer that prevents corruption and tyranny."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 14,
+    "question": "Many documents influenced the U.S. Constitution. Name one.",
+    "answers": [
+      {
+        "text": "Declaration of Independence",
+        "story": "Declaration of Independence: The Founders didn't invent everything from scratch. They borrowed the idea of a 'social contract' from John Locke, separation of powers from Montesquieu, and likely some democratic principles from the Iroquois Confederacy of Native American tribes."
+      },
+      {
+        "text": "Articles of Confederation",
+        "story": "Articles of Confederation: The Founders didn't invent everything from scratch. They borrowed the idea of a 'social contract' from John Locke, separation of powers from Montesquieu, and likely some democratic principles from the Iroquois Confederacy of Native American tribes."
+      },
+      {
+        "text": "Federalist Papers",
+        "story": "Federalist Papers: The Founders didn't invent everything from scratch. They borrowed the idea of a 'social contract' from John Locke, separation of powers from Montesquieu, and likely some democratic principles from the Iroquois Confederacy of Native American tribes."
+      },
+      {
+        "text": "Anti-Federalist Papers",
+        "story": "Anti-Federalist Papers: The Founders didn't invent everything from scratch. They borrowed the idea of a 'social contract' from John Locke, separation of powers from Montesquieu, and likely some democratic principles from the Iroquois Confederacy of Native American tribes."
+      },
+      {
+        "text": "Virginia Declaration of Rights",
+        "story": "Virginia Declaration of Rights: The Founders didn't invent everything from scratch. They borrowed the idea of a 'social contract' from John Locke, separation of powers from Montesquieu, and likely some democratic principles from the Iroquois Confederacy of Native American tribes."
+      },
+      {
+        "text": "Fundamental Orders of Connecticut",
+        "story": "Fundamental Orders of Connecticut: The Founders didn't invent everything from scratch. They borrowed the idea of a 'social contract' from John Locke, separation of powers from Montesquieu, and likely some democratic principles from the Iroquois Confederacy of Native American tribes."
+      },
+      {
+        "text": "Mayflower Compact",
+        "story": "Mayflower Compact: The Founders didn't invent everything from scratch. They borrowed the idea of a 'social contract' from John Locke, separation of powers from Montesquieu, and likely some democratic principles from the Iroquois Confederacy of Native American tribes."
+      },
+      {
+        "text": "Iroquois Great Law of Peace",
+        "story": "Iroquois Great Law of Peace: The Founders didn't invent everything from scratch. They borrowed the idea of a 'social contract' from John Locke, separation of powers from Montesquieu, and likely some democratic principles from the Iroquois Confederacy of Native American tribes."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 15,
+    "question": "There are three branches of government. Why?",
+    "answers": [
+      {
+        "text": "So one part does not become too powerful",
+        "story": "So one part does not become too powerful: Why three branches? To stop a monster! The Founders feared creating a new King, so they split the power into three chunks. Like a game of Rock-Paper-Scissors, each branch can stop the others, ensuring no single person becomes a dictator."
+      },
+      {
+        "text": "Checks and balances",
+        "story": "Checks and balances: Why three branches? To stop a monster! The Founders feared creating a new King, so they split the power into three chunks. Like a game of Rock-Paper-Scissors, each branch can stop the others, ensuring no single person becomes a dictator."
+      },
+      {
+        "text": "Separation of powers",
+        "story": "Separation of powers: Why three branches? To stop a monster! The Founders feared creating a new King, so they split the power into three chunks. Like a game of Rock-Paper-Scissors, each branch can stop the others, ensuring no single person becomes a dictator."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 16,
+    "question": "Name the three branches of government.",
+    "answers": [
+      {
+        "text": "Legislative, executive, and judicial",
+        "story": "Legislative, executive, and judicial: Legislative writes the recipes (Laws). Executive cooks the meal (Enforces laws). Judicial tastes it to make sure it's safe (Interprets laws). This separation ensures that the power to make, kill, and judge the law isn't in one person's hands."
+      },
+      {
+        "text": "Congress, president, and the courts",
+        "story": "Congress, president, and the courts: Legislative writes the recipes (Laws). Executive cooks the meal (Enforces laws). Judicial tastes it to make sure it's safe (Interprets laws). This separation ensures that the power to make, kill, and judge the law isn't in one person's hands."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 17,
+    "question": "The President of the United States is in charge of which branch of government?",
+    "answers": [
+      {
+        "text": "Executive branch",
+        "story": "Executive branch: The President is the CEO of the Executive Branch. Their job is to execute (carry out) the instructions (laws) given by the Board of Directors (Congress). They also manage the day-to-day operations of the government."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 18,
+    "question": "What part of the federal government writes laws?",
+    "answers": [
+      {
+        "text": "(U.S.) Congress",
+        "story": "(U.S.) Congress: The Legislative Branch (Congress) is the voice of the people. It's the only part of government that can actually create a new law. No matter what the President wants, they can't make it a law—only Congress can."
+      },
+      {
+        "text": "(U.S. or national) legislature",
+        "story": "(U.S. or national) legislature: The Legislative Branch (Congress) is the voice of the people. It's the only part of government that can actually create a new law. No matter what the President wants, they can't make it a law—only Congress can."
+      },
+      {
+        "text": "Legislative branch",
+        "story": "Legislative branch: The Legislative Branch (Congress) is the voice of the people. It's the only part of government that can actually create a new law. No matter what the President wants, they can't make it a law—only Congress can."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 19,
+    "question": "What are the two parts of the U.S. Congress?",
+    "answers": [
+      {
+        "text": "Senate and House (of Representatives)",
+        "story": "Senate and House (of Representatives): Congress has two houses because the big states wanted power based on population (House) and the small states wanted equal power (Senate). They compromised and did both! This is why we have a bicameral (two-room) Congress."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 20,
+    "question": "Name one power of the U.S. Congress.",
+    "answers": [
+      {
+        "text": "Writes laws",
+        "story": "Writes laws: Congress holds the 'Power of the Purse'. They control the money! They also have the scary power to declare war. This ensures that the decision to send soldiers to fight is made by many representatives, not just one leader."
+      },
+      {
+        "text": "Declares war",
+        "story": "Declares war: Congress holds the 'Power of the Purse'. They control the money! They also have the scary power to declare war. This ensures that the decision to send soldiers to fight is made by many representatives, not just one leader."
+      },
+      {
+        "text": "Makes the federal budget",
+        "story": "Makes the federal budget: Congress holds the 'Power of the Purse'. They control the money! They also have the scary power to declare war. This ensures that the decision to send soldiers to fight is made by many representatives, not just one leader."
+      }
+    ],
+    "is_65_20": true
+  },
+  {
+    "id": 21,
+    "question": "How many U.S. senators are there?",
+    "answers": [
+      {
+        "text": "One hundred (100)",
+        "story": "One hundred (100): 100 Senators. Easy math: 50 states x 2 senators each = 100. It doesn't matter if a state has 40 million people (California) or 600,000 (Wyoming), they both get exactly two voices in the Senate."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 22,
+    "question": "How long is a term for a U.S. senator?",
+    "answers": [
+      {
+        "text": "Six (6) years",
+        "story": "Six (6) years: Determined to be the 'wise elders', Senators serve 6 years—the longest term in government (except judges). This allows them to think long-term without worrying about campaigning every single year."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 23,
+    "question": "Who is one of your state’s U.S. senators now?",
+    "answers": [
+      {
+        "text": "Answers will vary. [District of Columbia residents and residents of U.S. territories should answer that D.C. (or the territory where the applicant lives) has no U.S. senators.]",
+        "story": "Answers will vary. [District of Columbia residents and residents of U.S. territories should answer that D.C. (or the territory where the applicant lives) has no U.S. senators.]: Your Senators represent your entire state. If you live in Texas, you and every other Texan share the same two Senators. They look out for the statewide interests, from the big cities to the rural farms."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 24,
+    "question": "How many voting members are in the House of Representatives?",
+    "answers": [
+      {
+        "text": "Four hundred thirty-five (435)",
+        "story": "Four hundred thirty-five (435): 435 voting members. This number is capped by law. If a state grows huge, it takes seats away from a state that shrank. It's a zero-sum game of political power based on where people live!"
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 25,
+    "question": "How long is a term for a member of the House of Representatives?",
+    "answers": [
+      {
+        "text": "Two (2) years",
+        "story": "Two (2) years: 2 years. It's a very short leash! The Founders wanted Representatives to be constantly worried about what voters think, so they have to run for re-election almost immediately after winning."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 26,
+    "question": "Why do U.S. representatives serve shorter terms than U.S. senators?",
+    "answers": [
+      {
+        "text": "To more closely follow public opinion",
+        "story": "To more closely follow public opinion: Because they have to face the voters every two years, Representatives are usually quicker to react to public opinion. Senators (6 years) can afford to be more patient and deliberate."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 27,
+    "question": "How many senators does each state have?",
+    "answers": [
+      {
+        "text": "Two (2)",
+        "story": "Two (2): Each state gets 2 Senators. This was the 'New Jersey Plan' during the founding—ensuring that small states wouldn't be bullied by big states with millions of voters."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 28,
+    "question": "Why does each state have two senators?",
+    "answers": [
+      {
+        "text": "Equal representation (for small states)",
+        "story": "Equal representation (for small states): The Founders wanted a balance. The House represents the *population* (power to the people), while the Senate represents the *states* (power to the state governments). This ensures neither mass mobs nor small elites totally dominate."
+      },
+      {
+        "text": "The Great Compromise (Connecticut Compromise)",
+        "story": "The Great Compromise (Connecticut Compromise): The Founders wanted a balance. The House represents the *population* (power to the people), while the Senate represents the *states* (power to the state governments). This ensures neither mass mobs nor small elites totally dominate."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 29,
+    "question": "Name your U.S. representative.",
+    "answers": [
+      {
+        "text": "Answers will vary. [Residents of territories with nonvoting Delegates or Resident Commissioners may provide the name of that Delegate or Commissioner. Also acceptable is any statement that the territory has no (voting) representatives in Congress.]",
+        "story": "Answers will vary. [Residents of territories with nonvoting Delegates or Resident Commissioners may provide the name of that Delegate or Commissioner. Also acceptable is any statement that the territory has no (voting) representatives in Congress.]: Your Representative only speaks for your specific slice of the state (your District). They care about your local libraries, bridges, and schools. To find yours, you just need your zip code!"
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 30,
+    "question": "What is the name of the Speaker of the House of Representatives now?",
+    "answers": [],
+    "is_65_20": true
+  },
+  {
+    "id": 31,
+    "question": "Who does a U.S. senator represent?",
+    "answers": [
+      {
+        "text": "Citizens of their state",
+        "story": "Citizens of their state: A Senator represents *everyone* in the state. Whether you live in the capital or the countryside, they are your voice. This obliges them to balance the needs of diverse groups within their state."
+      },
+      {
+        "text": "People of their state",
+        "story": "People of their state: A Senator represents *everyone* in the state. Whether you live in the capital or the countryside, they are your voice. This obliges them to balance the needs of diverse groups within their state."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 32,
+    "question": "Who elects U.S. senators?",
+    "answers": [
+      {
+        "text": "Citizens from their state",
+        "story": "Citizens from their state: For the first 125 years, state politicians picked Senators! The 17th Amendment changed this in 1913, giving the power directly to you, the voter. It was a major victory for ordinary citizens."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 33,
+    "question": "Who does a member of the House of Representatives represent?",
+    "answers": [
+      {
+        "text": "Citizens in their (congressional) district",
+        "story": "Citizens in their (congressional) district: A Representative works for the people in their specific geographical district. This makes them the closest link between the federal government and your local neighborhood."
+      },
+      {
+        "text": "Citizens in their district",
+        "story": "Citizens in their district: A Representative works for the people in their specific geographical district. This makes them the closest link between the federal government and your local neighborhood."
+      },
+      {
+        "text": "People from their (congressional) district",
+        "story": "People from their (congressional) district: A Representative works for the people in their specific geographical district. This makes them the closest link between the federal government and your local neighborhood."
+      },
+      {
+        "text": "People in their district",
+        "story": "People in their district: A Representative works for the people in their specific geographical district. This makes them the closest link between the federal government and your local neighborhood."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 34,
+    "question": "Who elects members of the House of Representatives?",
+    "answers": [
+      {
+        "text": "Citizens from their (congressional) district",
+        "story": "Citizens from their (congressional) district: Only the people living in that specific district can vote for their Representative. This ensures that every community, no matter how unique, has a voice in Washington."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 35,
+    "question": "Some states have more representatives than other states. Why?",
+    "answers": [
+      {
+        "text": "(Because of) the state’s population",
+        "story": "(Because of) the state’s population: Because the House is based on population! California has millions of people, so it gets dozens of Reps. Wyoming has fewer people, so it gets just one. This ensures every person's vote has roughly equal weight nationwide."
+      },
+      {
+        "text": "(Because) they have more people",
+        "story": "(Because) they have more people: Because the House is based on population! California has millions of people, so it gets dozens of Reps. Wyoming has fewer people, so it gets just one. This ensures every person's vote has roughly equal weight nationwide."
+      },
+      {
+        "text": "(Because) some states have more people",
+        "story": "(Because) some states have more people: Because the House is based on population! California has millions of people, so it gets dozens of Reps. Wyoming has fewer people, so it gets just one. This ensures every person's vote has roughly equal weight nationwide."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 36,
+    "question": "The President of the United States is elected for how many years?",
+    "answers": [
+      {
+        "text": "Four (4) years",
+        "story": "Four (4) years: 4 years. It’s enough time to get things done, but short enough that if they do a bad job, we can fire them (vote them out) relatively soon."
+      }
+    ],
+    "is_65_20": true
+  },
+  {
+    "id": 37,
+    "question": "The President of the United States can serve only two terms. Why?",
+    "answers": [
+      {
+        "text": "(Because of) the 22nd Amendment",
+        "story": "(Because of) the 22nd Amendment: George Washington set the tradition of leaving after two terms to prove he wasn't a King. Franklin D. Roosevelt broke this tradition (served 4 terms!), so we passed the 22nd Amendment to make the two-term limit an official law."
+      },
+      {
+        "text": "To keep the president from becoming too powerful",
+        "story": "To keep the president from becoming too powerful: George Washington set the tradition of leaving after two terms to prove he wasn't a King. Franklin D. Roosevelt broke this tradition (served 4 terms!), so we passed the 22nd Amendment to make the two-term limit an official law."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 38,
+    "question": "What is the name of the President of the United States now?",
+    "answers": [],
+    "is_65_20": true
+  },
+  {
+    "id": 39,
+    "question": "What is the name of the Vice President of the United States now?",
+    "answers": [],
+    "is_65_20": true
+  },
+  {
+    "id": 40,
+    "question": "If the president can no longer serve, who becomes president?",
+    "answers": [
+      {
+        "text": "The Vice President (of the United States)",
+        "story": "The Vice President (of the United States): The Vice President steps in. This has happened 9 times in history due to death or resignation! It ensures the government never halts, even in a tragedy."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 41,
+    "question": "Name one power of the president.",
+    "answers": [
+      {
+        "text": "Signs bills into law",
+        "story": "Signs bills into law: The Speaker of the House is next in line. This ensures that if the executive leaders are gone, an elected leader from the Legislative branch (the people's representatives) takes charge."
+      },
+      {
+        "text": "Vetoes bills",
+        "story": "Vetoes bills: The Speaker of the House is next in line. This ensures that if the executive leaders are gone, an elected leader from the Legislative branch (the people's representatives) takes charge."
+      },
+      {
+        "text": "Enforces laws",
+        "story": "Enforces laws: The Speaker of the House is next in line. This ensures that if the executive leaders are gone, an elected leader from the Legislative branch (the people's representatives) takes charge."
+      },
+      {
+        "text": "Commander in Chief (of the military)",
+        "story": "Commander in Chief (of the military): The Speaker of the House is next in line. This ensures that if the executive leaders are gone, an elected leader from the Legislative branch (the people's representatives) takes charge."
+      },
+      {
+        "text": "Chief diplomat",
+        "story": "Chief diplomat: The Speaker of the House is next in line. This ensures that if the executive leaders are gone, an elected leader from the Legislative branch (the people's representatives) takes charge."
+      },
+      {
+        "text": "Appoints federal judges",
+        "story": "Appoints federal judges: The Speaker of the House is next in line. This ensures that if the executive leaders are gone, an elected leader from the Legislative branch (the people's representatives) takes charge."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 42,
+    "question": "Who is Commander in Chief of the U.S. military?",
+    "answers": [
+      {
+        "text": "The President (of the United States)",
+        "story": "The President (of the United States): The President is the Commander in Chief. This means a civilian—elected by the people—controls the military, not a general. This is a key protection against military dictatorships."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 43,
+    "question": "Who signs bills to become laws?",
+    "answers": [
+      {
+        "text": "The President (of the United States)",
+        "story": "The President (of the United States): The President signs bills. A bill is just a piece of paper with an idea until the President's signature turns it into a powerful federal Law."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 44,
+    "question": "Who vetoes bills?",
+    "answers": [
+      {
+        "text": "The President (of the United States)",
+        "story": "The President (of the United States): Veto means 'I forbid' in Latin. The President can reject a law passed by Congress. However, if Congress *really* wants it, they can vote again and override the President with a 2/3 majority."
+      }
+    ],
+    "is_65_20": true
+  },
+  {
+    "id": 45,
+    "question": "Who appoints federal judges?",
+    "answers": [
+      {
+        "text": "The President (of the United States)",
+        "story": "The President (of the United States): The President picks the judges, but the Senate must check them (confirm them). This ensures the President doesn't just hire their best friends or unqualified people to be judges for life."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 46,
+    "question": "The executive branch has many parts. Name one.",
+    "answers": [
+      {
+        "text": "President (of the United States)",
+        "story": "President (of the United States): The Executive Branch is huge! It includes the military, the FBI, the Postal Service, and the National Parks. It’s millions of people working to enforce laws and run the country."
+      },
+      {
+        "text": "Cabinet",
+        "story": "Cabinet: The Executive Branch is huge! It includes the military, the FBI, the Postal Service, and the National Parks. It’s millions of people working to enforce laws and run the country."
+      },
+      {
+        "text": "Federal departments and agencies",
+        "story": "Federal departments and agencies: The Executive Branch is huge! It includes the military, the FBI, the Postal Service, and the National Parks. It’s millions of people working to enforce laws and run the country."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 47,
+    "question": "What does the President’s Cabinet do?",
+    "answers": [
+      {
+        "text": "Advises the President (of the United States)",
+        "story": "Advises the President (of the United States): The Cabinet is the President's inner circle of advisors. They run massive departments like Defense and Education. The President can't know everything, so they rely on these experts."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 48,
+    "question": "What are two Cabinet-level positions?",
+    "answers": [
+      {
+        "text": "Attorney General",
+        "story": "Attorney General: The head of the Department of Justice and the chief lawyer of the federal government."
+      },
+      {
+        "text": "Secretary of Agriculture",
+        "story": "Secretary of Agriculture: Oversees the American farming industry, food safety, and nutrition programs like school lunches."
+      },
+      {
+        "text": "Secretary of Commerce",
+        "story": "Secretary of Commerce: Promotes job creation and economic growth by supporting U.S. businesses and trade."
+      },
+      {
+        "text": "Secretary of Education",
+        "story": "Secretary of Education: Sets policies for federal financial aid for schools and collects data on America's schools."
+      },
+      {
+        "text": "Secretary of Energy",
+        "story": "Secretary of Energy: Manages the nation's nuclear weapons, energy research, and radioactive waste disposal."
+      },
+      {
+        "text": "Secretary of Health and Human Services",
+        "story": "Secretary of Health and Human Services: protects the health of all Americans and provides essential human services, including managing the CDC and FDA."
+      },
+      {
+        "text": "Secretary of Homeland Security",
+        "story": "Secretary of Homeland Security: Created after 9/11, this department protects the U.S. from terrorist attacks and manages border security."
+      },
+      {
+        "text": "Secretary of Housing and Urban Development",
+        "story": "Secretary of Housing and Urban Development: Oversees federal programs designed to help Americans with their housing needs and fair housing laws."
+      },
+      {
+        "text": "Secretary of the Interior",
+        "story": "Secretary of the Interior: Manages and conserves most federal land and natural resources, including National Parks."
+      },
+      {
+        "text": "Secretary of Labor",
+        "story": "Secretary of Labor: Ensures strong working conditions, advances opportunities for profitable employment, and protects benefits."
+      },
+      {
+        "text": "Secretary of State",
+        "story": "Secretary of State: The nation's top diplomat. They handle foreign affairs and relationships with other countries."
+      },
+      {
+        "text": "Secretary of Transportation",
+        "story": "Secretary of Transportation: Ensures a fast, safe, efficient, accessible, and convenient transportation system (roads, airports, railways)."
+      },
+      {
+        "text": "Secretary of the Treasury",
+        "story": "Secretary of the Treasury: Manages government revenue, prints money, and advises the President on economic policy."
+      },
+      {
+        "text": "Secretary of Veterans Affairs",
+        "story": "Secretary of Veterans Affairs: Provides healthcare services, benefits programs, and access to national cemeteries to former military personnel."
+      },
+      {
+        "text": "Secretary of War (Defense)",
+        "story": "Secretary of War (Defense): Examples: Secretary of State (deals with foreign countries), Secretary of Defense (manages the military), Secretary of the Treasury (manages money)."
+      },
+      {
+        "text": "Vice-President",
+        "story": "Vice-President: Examples: Secretary of State (deals with foreign countries), Secretary of Defense (manages the military), Secretary of the Treasury (manages money)."
+      },
+      {
+        "text": "Administrator of the Environmental Protection Agency",
+        "story": "Administrator of the Environmental Protection Agency: Examples: Secretary of State (deals with foreign countries), Secretary of Defense (manages the military), Secretary of the Treasury (manages money)."
+      },
+      {
+        "text": "Administrator of the Small Business Administration",
+        "story": "Administrator of the Small Business Administration: Examples: Secretary of State (deals with foreign countries), Secretary of Defense (manages the military), Secretary of the Treasury (manages money)."
+      },
+      {
+        "text": "Director of the Central Intelligence Agency",
+        "story": "Director of the Central Intelligence Agency: Examples: Secretary of State (deals with foreign countries), Secretary of Defense (manages the military), Secretary of the Treasury (manages money)."
+      },
+      {
+        "text": "Director of the Office of Management and Budget",
+        "story": "Director of the Office of Management and Budget: Examples: Secretary of State (deals with foreign countries), Secretary of Defense (manages the military), Secretary of the Treasury (manages money)."
+      },
+      {
+        "text": "Director of National Intelligence",
+        "story": "Director of National Intelligence: Examples: Secretary of State (deals with foreign countries), Secretary of Defense (manages the military), Secretary of the Treasury (manages money)."
+      },
+      {
+        "text": "United States Trade Representative",
+        "story": "United States Trade Representative: Examples: Secretary of State (deals with foreign countries), Secretary of Defense (manages the military), Secretary of the Treasury (manages money)."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 49,
+    "question": "Why is the Electoral College important?",
+    "answers": [
+      {
+        "text": "It decides who is elected president.",
+        "story": "It decides who is elected president.: The Electoral College is a unique American system. We win state-by-state points, not just total national votes. It forces candidates to care about many states, not just the massive cities."
+      },
+      {
+        "text": "It provides a compromise between the popular election of the president and congressional selection.",
+        "story": "It provides a compromise between the popular election of the president and congressional selection.: The Electoral College is a unique American system. We win state-by-state points, not just total national votes. It forces candidates to care about many states, not just the massive cities."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 50,
+    "question": "What is one part of the judicial branch?",
+    "answers": [
+      {
+        "text": "Supreme Court",
+        "story": "The Supreme Court is the head of the Judicial Branch. Below it are many lower federal courts that handle trials and appeals before they reach the top."
+      },
+      {
+        "text": "Federal Courts",
+        "story": "Federal Courts: The Supreme Court is the head of the Judicial Branch. Below it are many lower federal courts that handle trials and appeals before they reach the top."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 51,
+    "question": "What does the judicial branch do?",
+    "answers": [
+      {
+        "text": "Reviews laws",
+        "story": "Reviews laws: The Judicial Branch is like the referee. They don't play the game (make laws), but they decide if a play was fair (Constitutional) or a foul (Unconstitutional)."
+      },
+      {
+        "text": "Explains laws",
+        "story": "Explains laws: The Judicial Branch is like the referee. They don't play the game (make laws), but they decide if a play was fair (Constitutional) or a foul (Unconstitutional)."
+      },
+      {
+        "text": "Resolves disputes (disagreements) about the law",
+        "story": "Resolves disputes (disagreements) about the law: The Judicial Branch is like the referee. They don't play the game (make laws), but they decide if a play was fair (Constitutional) or a foul (Unconstitutional)."
+      },
+      {
+        "text": "Decides if a law goes against the (U.S.) Constitution",
+        "story": "Decides if a law goes against the (U.S.) Constitution: The Judicial Branch is like the referee. They don't play the game (make laws), but they decide if a play was fair (Constitutional) or a foul (Unconstitutional)."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 52,
+    "question": "What is the highest court in the United States?",
+    "answers": [
+      {
+        "text": "Supreme Court",
+        "story": "The Supreme Court is the 'court of last resort'. Once they decide a case, there is no higher court to appeal to. Their word is final law."
+      }
+    ],
+    "is_65_20": true
+  },
+  {
+    "id": 53,
+    "question": "How many seats are on the Supreme Court?",
+    "answers": [
+      {
+        "text": "Nine (9)",
+        "story": "Nine (9): Nine. One Chief Justice and eight Associates. Why nine? So there can never be a tie vote! Congress sets this number and can change it, but it's been nine since 1869."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 54,
+    "question": "How many Supreme Court justices are usually needed to decide a case?",
+    "answers": [
+      {
+        "text": "Five (5)",
+        "story": "Five (5): Five. A simple majority (5 out of 9) decides the law for the entire country."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 55,
+    "question": "How long do Supreme Court justices serve?",
+    "answers": [
+      {
+        "text": "(For) life",
+        "story": "(For) life: For life! Once appointed, they can stay until they die or retire. They can't be fired for making an unpopular decision. This allows them to focus on what is *right*, not what is popular."
+      },
+      {
+        "text": "Lifetime appointment",
+        "story": "Lifetime appointment: For life! Once appointed, they can stay until they die or retire. They can't be fired for making an unpopular decision. This allows them to focus on what is *right*, not what is popular."
+      },
+      {
+        "text": "(Until) retirement",
+        "story": "(Until) retirement: For life! Once appointed, they can stay until they die or retire. They can't be fired for making an unpopular decision. This allows them to focus on what is *right*, not what is popular."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 56,
+    "question": "Supreme Court justices serve for life. Why?",
+    "answers": [
+      {
+        "text": "To be independent (of politics)",
+        "story": "To be independent (of politics): Fairness. If judges had to run for re-election, they might rule in favor of rich donors or angry mobs just to keep their job. Lifetime appointments let them follow the Constitution without fear."
+      },
+      {
+        "text": "To limit outside (political) influence",
+        "story": "To limit outside (political) influence: Fairness. If judges had to run for re-election, they might rule in favor of rich donors or angry mobs just to keep their job. Lifetime appointments let them follow the Constitution without fear."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 57,
+    "question": "Who is the Chief Justice of the United States now?",
+    "answers": [],
+    "is_65_20": false
+  },
+  {
+    "id": 58,
+    "question": "Name one power that is only for the federal government.",
+    "answers": [
+      {
+        "text": "Print paper money",
+        "story": "Print paper money: To print money! Imagine if every state printed its own cash—it would be chaos. The Feds also declare war and make treaties. These are national issues that need one voice."
+      },
+      {
+        "text": "Mint coins",
+        "story": "Mint coins: To print money! Imagine if every state printed its own cash—it would be chaos. The Feds also declare war and make treaties. These are national issues that need one voice."
+      },
+      {
+        "text": "Declare war",
+        "story": "Declare war: To print money! Imagine if every state printed its own cash—it would be chaos. The Feds also declare war and make treaties. These are national issues that need one voice."
+      },
+      {
+        "text": "Create an army",
+        "story": "Create an army: To print money! Imagine if every state printed its own cash—it would be chaos. The Feds also declare war and make treaties. These are national issues that need one voice."
+      },
+      {
+        "text": "Make treaties",
+        "story": "Make treaties: To print money! Imagine if every state printed its own cash—it would be chaos. The Feds also declare war and make treaties. These are national issues that need one voice."
+      },
+      {
+        "text": "Set foreign policy",
+        "story": "Set foreign policy: To print money! Imagine if every state printed its own cash—it would be chaos. The Feds also declare war and make treaties. These are national issues that need one voice."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 59,
+    "question": "Name one power that is only for the states.",
+    "answers": [
+      {
+        "text": "Provide schooling and education",
+        "story": "Provide schooling and education: To issue driver’s licenses and run schools. These are local powers. The Constitution assumes if a power isn't listed for the Feds, it belongs to the States."
+      },
+      {
+        "text": "Provide protection (police)",
+        "story": "Provide protection (police): To issue driver’s licenses and run schools. These are local powers. The Constitution assumes if a power isn't listed for the Feds, it belongs to the States."
+      },
+      {
+        "text": "Provide safety (fire departments)",
+        "story": "Provide safety (fire departments): To issue driver’s licenses and run schools. These are local powers. The Constitution assumes if a power isn't listed for the Feds, it belongs to the States."
+      },
+      {
+        "text": "Give a driver’s license",
+        "story": "Give a driver’s license: To issue driver’s licenses and run schools. These are local powers. The Constitution assumes if a power isn't listed for the Feds, it belongs to the States."
+      },
+      {
+        "text": "Approve zoning and land use",
+        "story": "Approve zoning and land use: To issue driver’s licenses and run schools. These are local powers. The Constitution assumes if a power isn't listed for the Feds, it belongs to the States."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 60,
+    "question": "What is the purpose of the 10th Amendment?",
+    "answers": [
+      {
+        "text": "(It states that the) powers not given to the federal government belong to the states or to the people.",
+        "story": "(It states that the) powers not given to the federal government belong to the states or to the people.: The 10th Amendment is the 'State's Rights' shield. It says: 'If the Constitution didn't give this power to the Feds, it belongs to the States or the People.' It prevents the federal government from grabbing total power."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 61,
+    "question": "Who is the governor of your state now?",
+    "answers": [
+      {
+        "text": "Answers will vary. [District of Columbia residents should answer that D.C. does not have a governor.]",
+        "story": "Answers will vary. [District of Columbia residents should answer that D.C. does not have a governor.]: The Governor is basically the President of the State. They run the state executive branch, sign state laws, and manage the state budget."
+      }
+    ],
+    "is_65_20": true
+  },
+  {
+    "id": 62,
+    "question": "What is the capital of your state?",
+    "answers": [
+      {
+        "text": "Answers will vary. [District of Columbia residents should answer that D.C. is not a state and does not have a capital. Residents of U.S. territories should name the capital of the territory.]",
+        "story": "Answers will vary. [District of Columbia residents should answer that D.C. is not a state and does not have a capital. Residents of U.S. territories should name the capital of the territory.]: The capital is the political heart of the state, where the Governor lives and the legislature meets to make state laws."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 63,
+    "question": "There are four amendments to the U.S. Constitution about who can vote. Describe one of them.",
+    "answers": [
+      {
+        "text": "Citizens eighteen (18) and older (can vote).",
+        "story": "Citizens eighteen (18) and older (can vote).: The 19th Amendment is a big one: It gave women the right to vote in 1920. Before that, half the population had no voice in their own government!"
+      },
+      {
+        "text": "You don’t have to pay (a poll tax) to vote.",
+        "story": "You don’t have to pay (a poll tax) to vote.: The 19th Amendment is a big one: It gave women the right to vote in 1920. Before that, half the population had no voice in their own government!"
+      },
+      {
+        "text": "Any citizen can vote. (Women and men can vote.)",
+        "story": "Any citizen can vote. (Women and men can vote.): The 19th Amendment is a big one: It gave women the right to vote in 1920. Before that, half the population had no voice in their own government!"
+      },
+      {
+        "text": "A male citizen of any race (can vote).",
+        "story": "A male citizen of any race (can vote).: The 19th Amendment is a big one: It gave women the right to vote in 1920. Before that, half the population had no voice in their own government!"
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 64,
+    "question": "Who can vote in federal elections, run for federal office, and serve on a jury in the United States?",
+    "answers": [
+      {
+        "text": "Citizens",
+        "story": "Only Citizens. This is a special privilege of membership. While everyone has rights (like free speech), only citizens get to run the government (vote and hold office) or decide guilt in court (jury)."
+      },
+      {
+        "text": "Citizens of the United States",
+        "story": "Citizens of the United States: Only Citizens. This is a special privilege of membership. While everyone has rights (like free speech), only citizens get to run the government (vote and hold office) or decide guilt in court (jury)."
+      },
+      {
+        "text": "U.S. citizens",
+        "story": "U.S. citizens: Only Citizens. This is a special privilege of membership. While everyone has rights (like free speech), only citizens get to run the government (vote and hold office) or decide guilt in court (jury)."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 65,
+    "question": "What are three rights of everyone living in the United States?",
+    "answers": [
+      {
+        "text": "Freedom of expression",
+        "story": "Freedom of expression: Freedom of Speech, Religion, and Assembly. These rights belong to *everyone* on U.S. soil, not just citizens. Even a tourist has the right to remain silent or practice their religion!"
+      },
+      {
+        "text": "Freedom of speech",
+        "story": "Freedom of speech: Freedom of Speech, Religion, and Assembly. These rights belong to *everyone* on U.S. soil, not just citizens. Even a tourist has the right to remain silent or practice their religion!"
+      },
+      {
+        "text": "Freedom of assembly",
+        "story": "Freedom of assembly: Freedom of Speech, Religion, and Assembly. These rights belong to *everyone* on U.S. soil, not just citizens. Even a tourist has the right to remain silent or practice their religion!"
+      },
+      {
+        "text": "Freedom to petition the government",
+        "story": "Freedom to petition the government: Freedom of Speech, Religion, and Assembly. These rights belong to *everyone* on U.S. soil, not just citizens. Even a tourist has the right to remain silent or practice their religion!"
+      },
+      {
+        "text": "Freedom of religion",
+        "story": "Freedom of religion: Freedom of Speech, Religion, and Assembly. These rights belong to *everyone* on U.S. soil, not just citizens. Even a tourist has the right to remain silent or practice their religion!"
+      },
+      {
+        "text": "The right to bear arms",
+        "story": "The right to bear arms: Freedom of Speech, Religion, and Assembly. These rights belong to *everyone* on U.S. soil, not just citizens. Even a tourist has the right to remain silent or practice their religion!"
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 66,
+    "question": "What do we show loyalty to when we say the Pledge of Allegiance?",
+    "answers": [
+      {
+        "text": "The United States",
+        "story": "The United States. The Pledge is a solemn promise to be loyal to the country and the flag that represents 'liberty and justice for all'."
+      },
+      {
+        "text": "The flag",
+        "story": "The flag: The United States. The Pledge is a solemn promise to be loyal to the country and the flag that represents 'liberty and justice for all'."
+      }
+    ],
+    "is_65_20": true
+  },
+  {
+    "id": 67,
+    "question": "Name two promises that new citizens make in the Oath of Allegiance.",
+    "answers": [
+      {
+        "text": "Give up loyalty to other countries",
+        "story": "Give up loyalty to other countries: New citizens promise to 'bear arms' (fight) for the U.S. if asked, and to renounce loyalty to their old country. It's a total commitment to their new home."
+      },
+      {
+        "text": "Defend the (U.S.) Constitution",
+        "story": "Defend the (U.S.) Constitution: New citizens promise to 'bear arms' (fight) for the U.S. if asked, and to renounce loyalty to their old country. It's a total commitment to their new home."
+      },
+      {
+        "text": "Obey the laws of the United States",
+        "story": "Obey the laws of the United States: New citizens promise to 'bear arms' (fight) for the U.S. if asked, and to renounce loyalty to their old country. It's a total commitment to their new home."
+      },
+      {
+        "text": "Serve in the military (if needed)",
+        "story": "Serve in the military (if needed): New citizens promise to 'bear arms' (fight) for the U.S. if asked, and to renounce loyalty to their old country. It's a total commitment to their new home."
+      },
+      {
+        "text": "Serve (help, do important work for) the nation (if needed)",
+        "story": "Serve (help, do important work for) the nation (if needed): New citizens promise to 'bear arms' (fight) for the U.S. if asked, and to renounce loyalty to their old country. It's a total commitment to their new home."
+      },
+      {
+        "text": "Be loyal to the United States",
+        "story": "Be loyal to the United States: New citizens promise to 'bear arms' (fight) for the U.S. if asked, and to renounce loyalty to their old country. It's a total commitment to their new home."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 68,
+    "question": "How can people become United States citizens?",
+    "answers": [
+      {
+        "text": "Be born in the United States, under the conditions set by the 14th Amendment",
+        "story": "Be born in the United States, under the conditions set by the 14th Amendment: Three common ways: Be born here (Soil), have U.S. parents (Blood), or go through Naturalization (the test!). You can't just buy citizenship; you have to earn or inherit it."
+      },
+      {
+        "text": "Naturalize",
+        "story": "Naturalize: Three common ways: Be born here (Soil), have U.S. parents (Blood), or go through Naturalization (the test!). You can't just buy citizenship; you have to earn or inherit it."
+      },
+      {
+        "text": "Derive citizenship (under conditions set by Congress)",
+        "story": "Derive citizenship (under conditions set by Congress): Three common ways: Be born here (Soil), have U.S. parents (Blood), or go through Naturalization (the test!). You can't just buy citizenship; you have to earn or inherit it."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 69,
+    "question": "What are two examples of civic participation in the United States?",
+    "answers": [
+      {
+        "text": "Vote",
+        "story": "Vote! And serve on a jury. These are the engines of democracy. Without people voting and judging, the system stops working."
+      },
+      {
+        "text": "Run for office",
+        "story": "Run for office: Vote! And serve on a jury. These are the engines of democracy. Without people voting and judging, the system stops working."
+      },
+      {
+        "text": "Join a political party",
+        "story": "Join a political party: Vote! And serve on a jury. These are the engines of democracy. Without people voting and judging, the system stops working."
+      },
+      {
+        "text": "Help with a campaign",
+        "story": "Help with a campaign: Vote! And serve on a jury. These are the engines of democracy. Without people voting and judging, the system stops working."
+      },
+      {
+        "text": "Join a civic group",
+        "story": "Join a civic group: Vote! And serve on a jury. These are the engines of democracy. Without people voting and judging, the system stops working."
+      },
+      {
+        "text": "Join a community group",
+        "story": "Join a community group: Vote! And serve on a jury. These are the engines of democracy. Without people voting and judging, the system stops working."
+      },
+      {
+        "text": "Give an elected official your opinion (on an issue)",
+        "story": "Give an elected official your opinion (on an issue): Vote! And serve on a jury. These are the engines of democracy. Without people voting and judging, the system stops working."
+      },
+      {
+        "text": "Contact elected officials",
+        "story": "Contact elected officials: Vote! And serve on a jury. These are the engines of democracy. Without people voting and judging, the system stops working."
+      },
+      {
+        "text": "Support or oppose an issue or policy",
+        "story": "Support or oppose an issue or policy: Vote! And serve on a jury. These are the engines of democracy. Without people voting and judging, the system stops working."
+      },
+      {
+        "text": "Write to a newspaper",
+        "story": "Write to a newspaper: Vote! And serve on a jury. These are the engines of democracy. Without people voting and judging, the system stops working."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 70,
+    "question": "What is one way Americans can serve their country?",
+    "answers": [
+      {
+        "text": "Vote",
+        "story": "Vote: Serve in the military, run for office, or just volunteer in the community. Helping your neighborhood is helping your country."
+      },
+      {
+        "text": "Pay taxes",
+        "story": "Pay taxes: Serve in the military, run for office, or just volunteer in the community. Helping your neighborhood is helping your country."
+      },
+      {
+        "text": "Obey the law",
+        "story": "Obey the law: Serve in the military, run for office, or just volunteer in the community. Helping your neighborhood is helping your country."
+      },
+      {
+        "text": "Serve in the military",
+        "story": "Serve in the military, run for office, or just volunteer in the community. Helping your neighborhood is helping your country."
+      },
+      {
+        "text": "Run for office",
+        "story": "Run for office: Serve in the military, run for office, or just volunteer in the community. Helping your neighborhood is helping your country."
+      },
+      {
+        "text": "Work for local, state, or federal government",
+        "story": "Work for local, state, or federal government: Serve in the military, run for office, or just volunteer in the community. Helping your neighborhood is helping your country."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 71,
+    "question": "Why is it important to pay federal taxes?",
+    "answers": [
+      {
+        "text": "Required by law",
+        "story": "Required by law: Taxes pay for *everything* we share: the military, interstate highways, national parks, and social safety nets. Without taxes, the government would have $0/year budget."
+      },
+      {
+        "text": "All people pay to fund the federal government",
+        "story": "All people pay to fund the federal government: Taxes pay for *everything* we share: the military, interstate highways, national parks, and social safety nets. Without taxes, the government would have $0/year budget."
+      },
+      {
+        "text": "Required by the (U.S.) Constitution (16th Amendment)",
+        "story": "Required by the (U.S.) Constitution (16th Amendment): Taxes pay for *everything* we share: the military, interstate highways, national parks, and social safety nets. Without taxes, the government would have $0/year budget."
+      },
+      {
+        "text": "Civic duty",
+        "story": "Civic duty: Taxes pay for *everything* we share: the military, interstate highways, national parks, and social safety nets. Without taxes, the government would have $0/year budget."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 72,
+    "question": "It is important for all men age 18 through 25 to register for the Selective Service. Name one reason why.",
+    "answers": [
+      {
+        "text": "Required by law",
+        "story": "Required by law: In case of a major war (draft). While we have an all-volunteer military now, the Selective Service provides a backup list of men to call upon if the nation faces an existential crisis."
+      },
+      {
+        "text": "Civic duty",
+        "story": "Civic duty: In case of a major war (draft). While we have an all-volunteer military now, the Selective Service provides a backup list of men to call upon if the nation faces an existential crisis."
+      },
+      {
+        "text": "Makes the draft fair, if needed AMERICAN HISTORY",
+        "story": "Makes the draft fair, if needed AMERICAN HISTORY: In case of a major war (draft). While we have an all-volunteer military now, the Selective Service provides a backup list of men to call upon if the nation faces an existential crisis."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 73,
+    "question": "The colonists came to America for many reasons. Name one.",
+    "answers": [
+      {
+        "text": "Freedom",
+        "story": "Freedom! Many fled Europe to escape kings who told them how to pray or taxed them into poverty. They came for religious freedom and economic opportunity."
+      },
+      {
+        "text": "Political liberty",
+        "story": "Political liberty: Freedom! Many fled Europe to escape kings who told them how to pray or taxed them into poverty. They came for religious freedom and economic opportunity."
+      },
+      {
+        "text": "Religious freedom",
+        "story": "Religious freedom: Freedom! Many fled Europe to escape kings who told them how to pray or taxed them into poverty. They came for religious freedom and economic opportunity."
+      },
+      {
+        "text": "Economic opportunity",
+        "story": "Economic opportunity: Freedom! Many fled Europe to escape kings who told them how to pray or taxed them into poverty. They came for religious freedom and economic opportunity."
+      },
+      {
+        "text": "Escape persecution",
+        "story": "Escape persecution: Freedom! Many fled Europe to escape kings who told them how to pray or taxed them into poverty. They came for religious freedom and economic opportunity."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 74,
+    "question": "Who lived in America before the Europeans arrived?",
+    "answers": [
+      {
+        "text": "American Indians",
+        "story": "Native Americans (American Indians). They inhabited this land for thousands of years, with vast civilizations, languages, and cultures, long before Columbus sailed."
+      },
+      {
+        "text": "Native Americans",
+        "story": "Native Americans (American Indians). They inhabited this land for thousands of years, with vast civilizations, languages, and cultures, long before Columbus sailed."
+      }
+    ],
+    "is_65_20": true
+  },
+  {
+    "id": 75,
+    "question": "What group of people was taken and sold as slaves?",
+    "answers": [
+      {
+        "text": "Africans",
+        "story": "Africans. Millions were tragically kidnapped, shipped across the ocean in horrific conditions, and sold into slavery. This is the darkest chapter of American history."
+      },
+      {
+        "text": "People from Africa",
+        "story": "People from Africa: Africans. Millions were tragically kidnapped, shipped across the ocean in horrific conditions, and sold into slavery. This is the darkest chapter of American history."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 76,
+    "question": "What war did the Americans fight to win independence from Britain?",
+    "answers": [
+      {
+        "text": "American Revolution",
+        "story": "American Revolution: The Revolutionary War (or War of Independence). It was a David vs. Goliath fight where a ragtag group of farmers defeated the most powerful empire in the world (Great Britain)."
+      },
+      {
+        "text": "The (American) Revolutionary War",
+        "story": "The (American) Revolutionary War: The Revolutionary War (or War of Independence). It was a David vs. Goliath fight where a ragtag group of farmers defeated the most powerful empire in the world (Great Britain)."
+      },
+      {
+        "text": "War for (American) Independence",
+        "story": "War for (American) Independence: The Revolutionary War (or War of Independence). It was a David vs. Goliath fight where a ragtag group of farmers defeated the most powerful empire in the world (Great Britain)."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 77,
+    "question": "Name one reason why the Americans declared independence from Britain.",
+    "answers": [
+      {
+        "text": "High taxes",
+        "story": "High taxes: 'Taxation without Representation'! The British King taxed their tea, paper, and sugar but didn't let them have a vote in Parliament. The colonists said, 'No vote, no tax!'"
+      },
+      {
+        "text": "Taxation without representation",
+        "story": "Taxation without representation: 'Taxation without Representation'! The British King taxed their tea, paper, and sugar but didn't let them have a vote in Parliament. The colonists said, 'No vote, no tax!'"
+      },
+      {
+        "text": "British soldiers stayed in Americans’ houses (boarding, quartering)",
+        "story": "British soldiers stayed in Americans’ houses (boarding, quartering): 'Taxation without Representation'! The British King taxed their tea, paper, and sugar but didn't let them have a vote in Parliament. The colonists said, 'No vote, no tax!'"
+      },
+      {
+        "text": "They did not have self-government",
+        "story": "They did not have self-government: 'Taxation without Representation'! The British King taxed their tea, paper, and sugar but didn't let them have a vote in Parliament. The colonists said, 'No vote, no tax!'"
+      },
+      {
+        "text": "Boston Massacre",
+        "story": "Boston Massacre: 'Taxation without Representation'! The British King taxed their tea, paper, and sugar but didn't let them have a vote in Parliament. The colonists said, 'No vote, no tax!'"
+      },
+      {
+        "text": "Boston Tea Party (Tea Act)",
+        "story": "Boston Tea Party (Tea Act): 'Taxation without Representation'! The British King taxed their tea, paper, and sugar but didn't let them have a vote in Parliament. The colonists said, 'No vote, no tax!'"
+      },
+      {
+        "text": "Stamp Act",
+        "story": "Stamp Act: 'Taxation without Representation'! The British King taxed their tea, paper, and sugar but didn't let them have a vote in Parliament. The colonists said, 'No vote, no tax!'"
+      },
+      {
+        "text": "Sugar Act",
+        "story": "Sugar Act: 'Taxation without Representation'! The British King taxed their tea, paper, and sugar but didn't let them have a vote in Parliament. The colonists said, 'No vote, no tax!'"
+      },
+      {
+        "text": "Townshend Acts",
+        "story": "Townshend Acts: 'Taxation without Representation'! The British King taxed their tea, paper, and sugar but didn't let them have a vote in Parliament. The colonists said, 'No vote, no tax!'"
+      },
+      {
+        "text": "Intolerable (Coercive) Acts",
+        "story": "Intolerable (Coercive) Acts: 'Taxation without Representation'! The British King taxed their tea, paper, and sugar but didn't let them have a vote in Parliament. The colonists said, 'No vote, no tax!'"
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 78,
+    "question": "Who wrote the Declaration of Independence?",
+    "answers": [
+      {
+        "text": "(Thomas) Jefferson",
+        "story": "(Thomas) Jefferson: Thomas Jefferson. He was only 33 years old! He sat in a rented room in Philadelphia and wrote the words that would change the world: 'All men are created equal.'"
+      }
+    ],
+    "is_65_20": true
+  },
+  {
+    "id": 79,
+    "question": "When was the Declaration of Independence adopted?",
+    "answers": [
+      {
+        "text": "July 4, 1776",
+        "story": "July 4, 1776. That's why we have fireworks in July! It marks the day the colonies officially signed their names to the death warrant of British rule."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 80,
+    "question": "The American Revolution had many important events. Name one.",
+    "answers": [
+      {
+        "text": "(Battle of) Bunker Hill",
+        "story": "(Battle of) Bunker Hill: Battle of Saratoga—the turning point that convinced France to help us. Or Yorktown—where the British finally surrendered. The war lasted 8 long years."
+      },
+      {
+        "text": "Declaration of Independence",
+        "story": "Declaration of Independence: Battle of Saratoga—the turning point that convinced France to help us. Or Yorktown—where the British finally surrendered. The war lasted 8 long years."
+      },
+      {
+        "text": "Washington Crossing the Delaware (Battle of Trenton)",
+        "story": "Washington Crossing the Delaware (Battle of Trenton): Battle of Saratoga—the turning point that convinced France to help us. Or Yorktown—where the British finally surrendered. The war lasted 8 long years."
+      },
+      {
+        "text": "(Battle of) Saratoga",
+        "story": "(Battle of) Saratoga: Battle of Saratoga—the turning point that convinced France to help us. Or Yorktown—where the British finally surrendered. The war lasted 8 long years."
+      },
+      {
+        "text": "Valley Forge (Encampment)",
+        "story": "Valley Forge (Encampment): Battle of Saratoga—the turning point that convinced France to help us. Or Yorktown—where the British finally surrendered. The war lasted 8 long years."
+      },
+      {
+        "text": "(Battle of) Yorktown (British surrender at Yorktown)",
+        "story": "(Battle of) Yorktown (British surrender at Yorktown): Battle of Saratoga—the turning point that convinced France to help us. Or Yorktown—where the British finally surrendered. The war lasted 8 long years."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 81,
+    "question": "There were 13 original states. Name five.",
+    "answers": [
+      {
+        "text": "New Hampshire",
+        "story": "New York, New Jersey, New Hampshire... think of the East Coast! Virginia, Massachusetts, Pennsylvania. These 13 colonies became the first 13 states."
+      },
+      {
+        "text": "Massachusetts",
+        "story": "New York, New Jersey, New Hampshire... think of the East Coast! Virginia, Massachusetts, Pennsylvania. These 13 colonies became the first 13 states."
+      },
+      {
+        "text": "Rhode Island",
+        "story": "Rhode Island: New York, New Jersey, New Hampshire... think of the East Coast! Virginia, Massachusetts, Pennsylvania. These 13 colonies became the first 13 states."
+      },
+      {
+        "text": "Connecticut",
+        "story": "Connecticut: New York, New Jersey, New Hampshire... think of the East Coast! Virginia, Massachusetts, Pennsylvania. These 13 colonies became the first 13 states."
+      },
+      {
+        "text": "New York",
+        "story": "New York, New Jersey, New Hampshire... think of the East Coast! Virginia, Massachusetts, Pennsylvania. These 13 colonies became the first 13 states."
+      },
+      {
+        "text": "New Jersey",
+        "story": "New York, New Jersey, New Hampshire... think of the East Coast! Virginia, Massachusetts, Pennsylvania. These 13 colonies became the first 13 states."
+      },
+      {
+        "text": "Pennsylvania",
+        "story": "New York, New Jersey, New Hampshire... think of the East Coast! Virginia, Massachusetts, Pennsylvania. These 13 colonies became the first 13 states."
+      },
+      {
+        "text": "Delaware",
+        "story": "Delaware: New York, New Jersey, New Hampshire... think of the East Coast! Virginia, Massachusetts, Pennsylvania. These 13 colonies became the first 13 states."
+      },
+      {
+        "text": "Maryland",
+        "story": "Maryland: New York, New Jersey, New Hampshire... think of the East Coast! Virginia, Massachusetts, Pennsylvania. These 13 colonies became the first 13 states."
+      },
+      {
+        "text": "Virginia",
+        "story": "New York, New Jersey, New Hampshire... think of the East Coast! Virginia, Massachusetts, Pennsylvania. These 13 colonies became the first 13 states."
+      },
+      {
+        "text": "North Carolina",
+        "story": "North Carolina: New York, New Jersey, New Hampshire... think of the East Coast! Virginia, Massachusetts, Pennsylvania. These 13 colonies became the first 13 states."
+      },
+      {
+        "text": "South Carolina",
+        "story": "South Carolina: New York, New Jersey, New Hampshire... think of the East Coast! Virginia, Massachusetts, Pennsylvania. These 13 colonies became the first 13 states."
+      },
+      {
+        "text": "Georgia",
+        "story": "Georgia: New York, New Jersey, New Hampshire... think of the East Coast! Virginia, Massachusetts, Pennsylvania. These 13 colonies became the first 13 states."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 82,
+    "question": "What founding document was written in 1787?",
+    "answers": [
+      {
+        "text": "(U.S.) Constitution",
+        "story": "(U.S.) Constitution: The Constitution. It was written in the hot summer of 1787 in Philadelphia. The delegates argued for months to create the system we still use today."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 83,
+    "question": "The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.",
+    "answers": [
+      {
+        "text": "(James) Madison",
+        "story": "(James) Madison: Alexander Hamilton (wrote the most!), James Madison (the genius), and John Jay. They wrote 85 essays arguing why the new Constitution was a good idea."
+      },
+      {
+        "text": "(Alexander) Hamilton",
+        "story": "(Alexander) Hamilton: Alexander Hamilton (wrote the most!), James Madison (the genius), and John Jay. They wrote 85 essays arguing why the new Constitution was a good idea."
+      },
+      {
+        "text": "(John) Jay",
+        "story": "(John) Jay: Alexander Hamilton (wrote the most!), James Madison (the genius), and John Jay. They wrote 85 essays arguing why the new Constitution was a good idea."
+      },
+      {
+        "text": "Publius",
+        "story": "Publius: Alexander Hamilton (wrote the most!), James Madison (the genius), and John Jay. They wrote 85 essays arguing why the new Constitution was a good idea."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 84,
+    "question": "Why were the Federalist Papers important?",
+    "answers": [
+      {
+        "text": "They helped people understand the (U.S.) Constitution.",
+        "story": "They helped people understand the (U.S.) Constitution.: They are the best explanation of *why* our government is built this way. Judges and scholars still read them today to understand what the Founders were thinking."
+      },
+      {
+        "text": "They supported passing the (U.S.) Constitution.",
+        "story": "They supported passing the (U.S.) Constitution.: They are the best explanation of *why* our government is built this way. Judges and scholars still read them today to understand what the Founders were thinking."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 85,
+    "question": "Benjamin Franklin is famous for many things. Name one.",
+    "answers": [
+      {
+        "text": "Founded the first free public libraries",
+        "story": "Founded the first free public libraries: He was the oldest Founding Father. He was a diplomat who got France to help us in the war, and he invented bifocals and the lightning rod! A true American genius."
+      },
+      {
+        "text": "First Postmaster General of the United States",
+        "story": "First Postmaster General of the United States: He was the oldest Founding Father. He was a diplomat who got France to help us in the war, and he invented bifocals and the lightning rod! A true American genius."
+      },
+      {
+        "text": "Helped write the Declaration of Independence",
+        "story": "Helped write the Declaration of Independence: He was the oldest Founding Father. He was a diplomat who got France to help us in the war, and he invented bifocals and the lightning rod! A true American genius."
+      },
+      {
+        "text": "Inventor",
+        "story": "Inventor: He was the oldest Founding Father. He was a diplomat who got France to help us in the war, and he invented bifocals and the lightning rod! A true American genius."
+      },
+      {
+        "text": "U.S. diplomat",
+        "story": "U.S. diplomat: He was the oldest Founding Father. He was a diplomat who got France to help us in the war, and he invented bifocals and the lightning rod! A true American genius."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 86,
+    "question": "George Washington is famous for many things. Name one.",
+    "answers": [
+      {
+        "text": "“Father of Our Country”",
+        "story": "“Father of Our Country”: 'Father of His Country'. He led the army to victory in the Revolution, then became the first President. He could have been a King, but he chose to step down—his greatest act."
+      },
+      {
+        "text": "First president of the United States",
+        "story": "First president of the United States: 'Father of His Country'. He led the army to victory in the Revolution, then became the first President. He could have been a King, but he chose to step down—his greatest act."
+      },
+      {
+        "text": "General of the Continental Army",
+        "story": "General of the Continental Army: 'Father of His Country'. He led the army to victory in the Revolution, then became the first President. He could have been a King, but he chose to step down—his greatest act."
+      },
+      {
+        "text": "President of the Constitutional Convention",
+        "story": "President of the Constitutional Convention: 'Father of His Country'. He led the army to victory in the Revolution, then became the first President. He could have been a King, but he chose to step down—his greatest act."
+      }
+    ],
+    "is_65_20": true
+  },
+  {
+    "id": 87,
+    "question": "Thomas Jefferson is famous for many things. Name one.",
+    "answers": [
+      {
+        "text": "Writer of the Declaration of Independence",
+        "story": "Writer of the Declaration of Independence: At age 33, he wrote the document that declared the U.S. free from Britain and stated that 'all men are created equal'."
+      },
+      {
+        "text": "Third president of the United States",
+        "story": "Third president of the United States: He served two terms from 1801 to 1809, emphasizing a smaller government and agrarian democracy."
+      },
+      {
+        "text": "Doubled the size of the United States (Louisiana Purchase)",
+        "story": "Doubled the size of the United States (Louisiana Purchase): In 1803, he bought a massive chunk of land from France for $15 million, extending the U.S. to the Rocky Mountains."
+      },
+      {
+        "text": "First Secretary of State",
+        "story": "First Secretary of State: He served as the very first top diplomat under George Washington."
+      },
+      {
+        "text": "Founded the University of Virginia",
+        "story": "Founded the University of Virginia: He was so proud of this that he put it on his tombstone instead of being President!"
+      },
+      {
+        "text": "Writer of the Virginia Statute on Religious Freedom",
+        "story": "Writer of the Virginia Statute on Religious Freedom: He wrote the Declaration of Independence. Later, as President, he bought the Louisiana Territory, doubling the size of the U.S. for dirt cheap!"
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 88,
+    "question": "James Madison is famous for many things. Name one.",
+    "answers": [
+      {
+        "text": "“Father of the Constitution”",
+        "story": "“Father of the Constitution”: 'Father of the Constitution'. James Madison arrived at the convention with the plan for the three branches of government. He also wrote the Bill of Rights."
+      },
+      {
+        "text": "Fourth president of the United States",
+        "story": "Fourth president of the United States: 'Father of the Constitution'. James Madison arrived at the convention with the plan for the three branches of government. He also wrote the Bill of Rights."
+      },
+      {
+        "text": "President during the War of 1812",
+        "story": "President during the War of 1812: 'Father of the Constitution'. James Madison arrived at the convention with the plan for the three branches of government. He also wrote the Bill of Rights."
+      },
+      {
+        "text": "One of the writers of the Federalist Papers",
+        "story": "One of the writers of the Federalist Papers: 'Father of the Constitution'. James Madison arrived at the convention with the plan for the three branches of government. He also wrote the Bill of Rights."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 89,
+    "question": "Alexander Hamilton is famous for many things. Name one.",
+    "answers": [
+      {
+        "text": "First Secretary of the Treasury",
+        "story": "First Secretary of the Treasury. He created the U.S. financial system, the national bank, and the Coast Guard. His face is on the $10 bill."
+      },
+      {
+        "text": "One of the writers of the Federalist Papers",
+        "story": "One of the writers of the Federalist Papers: First Secretary of the Treasury. He created the U.S. financial system, the national bank, and the Coast Guard. His face is on the $10 bill."
+      },
+      {
+        "text": "Helped establish the First Bank of the United States",
+        "story": "Helped establish the First Bank of the United States: First Secretary of the Treasury. He created the U.S. financial system, the national bank, and the Coast Guard. His face is on the $10 bill."
+      },
+      {
+        "text": "Aide to General George Washington",
+        "story": "Aide to General George Washington: First Secretary of the Treasury. He created the U.S. financial system, the national bank, and the Coast Guard. His face is on the $10 bill."
+      },
+      {
+        "text": "Member of the Continental Congress",
+        "story": "Member of the Continental Congress: First Secretary of the Treasury. He created the U.S. financial system, the national bank, and the Coast Guard. His face is on the $10 bill."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 90,
+    "question": "What territory did the United States buy from France in 1803?",
+    "answers": [
+      {
+        "text": "Louisiana Territory",
+        "story": "The Louisiana Territory (Louisiana Purchase). It was massive! It stretched from the Mississippi River to the Rocky Mountains. We bought it from Napoleon (France)."
+      },
+      {
+        "text": "Louisiana",
+        "story": "The Louisiana Territory (Louisiana Purchase). It was massive! It stretched from the Mississippi River to the Rocky Mountains. We bought it from Napoleon (France)."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 91,
+    "question": "Name one war fought by the United States in the 1800s.",
+    "answers": [
+      {
+        "text": "War of 1812",
+        "story": "The Civil War. Also the War of 1812 (against Britain again) and the Mexican-American War (gained California/Texas). It was a century of expansion and conflict."
+      },
+      {
+        "text": "Mexican-American War",
+        "story": "The Civil War. Also the War of 1812 (against Britain again) and the Mexican-American War (gained California/Texas). It was a century of expansion and conflict."
+      },
+      {
+        "text": "Civil War",
+        "story": "The Civil War. Also the War of 1812 (against Britain again) and the Mexican-American War (gained California/Texas). It was a century of expansion and conflict."
+      },
+      {
+        "text": "Spanish-American War",
+        "story": "Spanish-American War: The Civil War. Also the War of 1812 (against Britain again) and the Mexican-American War (gained California/Texas). It was a century of expansion and conflict."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 92,
+    "question": "Name the U.S. war between the North and the South.",
+    "answers": [
+      {
+        "text": "The Civil War",
+        "story": "The Civil War. It was the deadliest war in U.S. history, pitting brother against brother. The North (Union) fought the South (Confederacy)."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 93,
+    "question": "The Civil War had many important events. Name one.",
+    "answers": [
+      {
+        "text": "(Battle of) Fort Sumter",
+        "story": "(Battle of) Fort Sumter: Gettysburg Address. The Battle of Gettysburg was the turning point. Also the Emancipation Proclamation, where Lincoln declared slaves in the south to be free."
+      },
+      {
+        "text": "Emancipation Proclamation",
+        "story": "Gettysburg Address. The Battle of Gettysburg was the turning point. Also the Emancipation Proclamation, where Lincoln declared slaves in the south to be free."
+      },
+      {
+        "text": "(Battle of) Vicksburg",
+        "story": "(Battle of) Vicksburg: Gettysburg Address. The Battle of Gettysburg was the turning point. Also the Emancipation Proclamation, where Lincoln declared slaves in the south to be free."
+      },
+      {
+        "text": "(Battle of) Gettysburg",
+        "story": "(Battle of) Gettysburg: Gettysburg Address. The Battle of Gettysburg was the turning point. Also the Emancipation Proclamation, where Lincoln declared slaves in the south to be free."
+      },
+      {
+        "text": "Sherman’s March",
+        "story": "Sherman’s March: Gettysburg Address. The Battle of Gettysburg was the turning point. Also the Emancipation Proclamation, where Lincoln declared slaves in the south to be free."
+      },
+      {
+        "text": "(Surrender at) Appomattox",
+        "story": "(Surrender at) Appomattox: Gettysburg Address. The Battle of Gettysburg was the turning point. Also the Emancipation Proclamation, where Lincoln declared slaves in the south to be free."
+      },
+      {
+        "text": "(Battle of) Antietam/Sharpsburg",
+        "story": "(Battle of) Antietam/Sharpsburg: Gettysburg Address. The Battle of Gettysburg was the turning point. Also the Emancipation Proclamation, where Lincoln declared slaves in the south to be free."
+      },
+      {
+        "text": "Lincoln was assassinated.",
+        "story": "Lincoln was assassinated.: Gettysburg Address. The Battle of Gettysburg was the turning point. Also the Emancipation Proclamation, where Lincoln declared slaves in the south to be free."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 94,
+    "question": "Abraham Lincoln is famous for many things. Name one.",
+    "answers": [
+      {
+        "text": "Freed the slaves (Emancipation Proclamation)",
+        "story": "Freed the slaves (Emancipation Proclamation): He issued the order that declared all slaves in Confederate territory to be forever free."
+      },
+      {
+        "text": "Saved (or preserved) the Union",
+        "story": "Saved (or preserved) the Union: He refused to let the Southern states break away, fighting a bloody war to keep the United States as one country."
+      },
+      {
+        "text": "Led the United States during the Civil War",
+        "story": "Led the United States during the Civil War: He guided the nation through its darkest and deadliest four years."
+      },
+      {
+        "text": "16th president of the United States",
+        "story": "16th president of the United States: He saved the Union. Lincoln held the country together during the Civil War and freed the slaves. He was assassinated just days after the war ended."
+      },
+      {
+        "text": "Delivered the Gettysburg Address",
+        "story": "Delivered the Gettysburg Address: He saved the Union. Lincoln held the country together during the Civil War and freed the slaves. He was assassinated just days after the war ended."
+      }
+    ],
+    "is_65_20": true
+  },
+  {
+    "id": 95,
+    "question": "What did the Emancipation Proclamation do?",
+    "answers": [
+      {
+        "text": "Freed the slaves",
+        "story": "Freed the slaves: It freed the slaves in the Confederate states. It didn't free everyone instantly, but it turned the war into a moral crusade against slavery."
+      },
+      {
+        "text": "Freed slaves in the Confederacy",
+        "story": "Freed slaves in the Confederacy: It freed the slaves in the Confederate states. It didn't free everyone instantly, but it turned the war into a moral crusade against slavery."
+      },
+      {
+        "text": "Freed slaves in the Confederate states",
+        "story": "Freed slaves in the Confederate states: It freed the slaves in the Confederate states. It didn't free everyone instantly, but it turned the war into a moral crusade against slavery."
+      },
+      {
+        "text": "Freed slaves in most Southern states",
+        "story": "Freed slaves in most Southern states: It freed the slaves in the Confederate states. It didn't free everyone instantly, but it turned the war into a moral crusade against slavery."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 96,
+    "question": "What U.S. war ended slavery?",
+    "answers": [
+      {
+        "text": "The Civil War",
+        "story": "The Civil War. The North's victory led to the 13th Amendment, which banned slavery forever in the United States."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 97,
+    "question": "What amendment says all persons born or naturalized in the United States, and subject to the jurisdiction thereof, are U.S. citizens?",
+    "answers": [
+      {
+        "text": "14th Amendment",
+        "story": "14th Amendment. It reversed the Dred Scott decision. It says if you are born here, you are a citizen, period. It guarantees 'equal protection' under the law."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 98,
+    "question": "When did all men get the right to vote?",
+    "answers": [
+      {
+        "text": "After the Civil War",
+        "story": "After the Civil War (1870), the 15th Amendment technically gave Black men the vote. But many states blocked them until the 1960s!"
+      },
+      {
+        "text": "During Reconstruction",
+        "story": "During Reconstruction: After the Civil War (1870), the 15th Amendment technically gave Black men the vote. But many states blocked them until the 1960s!"
+      },
+      {
+        "text": "(With the) 15th Amendment",
+        "story": "(With the) 15th Amendment: After the Civil War (1870), the 15th Amendment technically gave Black men the vote. But many states blocked them until the 1960s!"
+      },
+      {
+        "text": "1870",
+        "story": "After the Civil War (1870), the 15th Amendment technically gave Black men the vote. But many states blocked them until the 1960s!"
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 99,
+    "question": "Name one leader of the women’s rights movement in the 1800s.",
+    "answers": [
+      {
+        "text": "Susan B. Anthony",
+        "story": "Susan B. Anthony: She was arrested for voting illegally in 1872! She appeared on the dollar coin and spent her life fighting for suffrage."
+      },
+      {
+        "text": "Elizabeth Cady Stanton",
+        "story": "Elizabeth Cady Stanton: She organized the Seneca Falls Convention in 1848 and wrote the 'Declaration of Sentiments', demanding equality."
+      },
+      {
+        "text": "Sojourner Truth",
+        "story": "Sojourner Truth: A former slave who became a powerful speaker. Her famous 'Ain't I a Woman?' speech linked women's rights with abolition."
+      },
+      {
+        "text": "Harriet Tubman",
+        "story": "Harriet Tubman: Famous for the Underground Railroad, she was also a suffragist who fought for women's right to vote after the Civil War."
+      },
+      {
+        "text": "Lucretia Mott",
+        "story": "Lucretia Mott: A Quaker abolitionist and women's rights activist who helped organize the Seneca Falls Convention."
+      },
+      {
+        "text": "Lucy Stone",
+        "story": "Lucy Stone: She was the first woman in Massachusetts to earn a college degree and kept her maiden name after marriage as a protest."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 100,
+    "question": "Name one war fought by the United States in the 1900s.",
+    "answers": [
+      {
+        "text": "World War I",
+        "story": "World War I: The 'Great War' (1914-1918). The U.S. joined in 1917 to help the Allies defeat the Central Powers."
+      },
+      {
+        "text": "World War II",
+        "story": "World War II: The biggest war in history (1939-1945). The U.S. fought Nazi Germany in Europe and Imperial Japan in the Pacific."
+      },
+      {
+        "text": "Korean War",
+        "story": "Korean War: Fought in the early 1950s to stop communist North Korea from taking over South Korea. It ended in a stalemate."
+      },
+      {
+        "text": "Vietnam War",
+        "story": "Vietnam War: A long conflict (1955-1975) to stop the spread of communism in Vietnam. It was highly controversial in the U.S."
+      },
+      {
+        "text": "(Persian) Gulf War",
+        "story": "(Persian) Gulf War: World War I and World War II. These global conflicts defined the century and established the U.S. as a superpower."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 101,
+    "question": "Why did the United States enter World War I?",
+    "answers": [
+      {
+        "text": "Because Germany attacked U.S. (civilian) ships",
+        "story": "Because Germany attacked U.S. (civilian) ships: Germany was sinking our ships (Lusitania) and tried to get Mexico to attack us (Zimmerman Note). We couldn't stay neutral anymore."
+      },
+      {
+        "text": "To support the Allied Powers (England, France, Italy, and Russia)",
+        "story": "To support the Allied Powers (England, France, Italy, and Russia): Germany was sinking our ships (Lusitania) and tried to get Mexico to attack us (Zimmerman Note). We couldn't stay neutral anymore."
+      },
+      {
+        "text": "To oppose the Central Powers (Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria)",
+        "story": "To oppose the Central Powers (Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria): Germany was sinking our ships (Lusitania) and tried to get Mexico to attack us (Zimmerman Note). We couldn't stay neutral anymore."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 102,
+    "question": "When did all women get the right to vote?",
+    "answers": [
+      {
+        "text": "1920",
+        "story": "1920. The 19th Amendment finally passed after decades of protests. Millions of women voted for the first time in that year's election."
+      },
+      {
+        "text": "After World War I",
+        "story": "After World War I: 1920. The 19th Amendment finally passed after decades of protests. Millions of women voted for the first time in that year's election."
+      },
+      {
+        "text": "(With the) 19 th Amendment",
+        "story": "(With the) 19 th Amendment: 1920. The 19th Amendment finally passed after decades of protests. Millions of women voted for the first time in that year's election."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 103,
+    "question": "What was the Great Depression?",
+    "answers": [
+      {
+        "text": "Longest economic recession in modern history",
+        "story": "Longest economic recession in modern history: A massive economic crash. In the 1930s, banks failed, and 25% of Americans were unemployed. People lost their life savings and homes."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 104,
+    "question": "When did the Great Depression start?",
+    "answers": [
+      {
+        "text": "The Great Crash (1929)",
+        "story": "The Great Crash (1929): 1929. The stock market crashed in October ('Black Tuesday'), wiping out fortunes overnight and triggering the global depression."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 105,
+    "question": "Who was president during the Great Depression and World War II?",
+    "answers": [
+      {
+        "text": "(Franklin) Roosevelt",
+        "story": "(Franklin) Roosevelt: Franklin D. Roosevelt (FDR). He told Americans, 'The only thing we have to fear is fear itself.' He was elected four times and led the U.S. through its hardest years."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 106,
+    "question": "Why did the United States enter World War II?",
+    "answers": [
+      {
+        "text": "(Bombing of) Pearl Harbor",
+        "story": "(Bombing of) Pearl Harbor: Pearl Harbor. Japan attacked the U.S. naval base in Hawaii on Dec 7, 1941. The next day, we declared war on Japan and its ally, Nazi Germany."
+      },
+      {
+        "text": "Japanese attacked Pearl Harbor",
+        "story": "Japanese attacked Pearl Harbor: Pearl Harbor. Japan attacked the U.S. naval base in Hawaii on Dec 7, 1941. The next day, we declared war on Japan and its ally, Nazi Germany."
+      },
+      {
+        "text": "To support the Allied Powers (England, France, and Russia)",
+        "story": "To support the Allied Powers (England, France, and Russia): Pearl Harbor. Japan attacked the U.S. naval base in Hawaii on Dec 7, 1941. The next day, we declared war on Japan and its ally, Nazi Germany."
+      },
+      {
+        "text": "To oppose the Axis Powers (Germany, Italy, and Japan)",
+        "story": "To oppose the Axis Powers (Germany, Italy, and Japan): Pearl Harbor. Japan attacked the U.S. naval base in Hawaii on Dec 7, 1941. The next day, we declared war on Japan and its ally, Nazi Germany."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 107,
+    "question": "Dwight Eisenhower is famous for many things. Name one.",
+    "answers": [
+      {
+        "text": "General during World War II",
+        "story": "General during World War II: He was a General. Before he was President, 'Ike' was the Supreme Commander of Allied forces in Europe and planned D-Day, the invasion that liberated France."
+      },
+      {
+        "text": "President at the end of (during) the Korean War",
+        "story": "President at the end of (during) the Korean War: He was a General. Before he was President, 'Ike' was the Supreme Commander of Allied forces in Europe and planned D-Day, the invasion that liberated France."
+      },
+      {
+        "text": "34 th president of the United States",
+        "story": "34 th president of the United States: He was a General. Before he was President, 'Ike' was the Supreme Commander of Allied forces in Europe and planned D-Day, the invasion that liberated France."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 108,
+    "question": "Who was the United States’ main rival during the Cold War?",
+    "answers": [
+      {
+        "text": "Soviet Union",
+        "story": "The Soviet Union (USSR). It was a 'Cold' war because we never directly fought them, but we competed in an arms race, space race, and proxy wars for 40 years."
+      },
+      {
+        "text": "USSR",
+        "story": "The Soviet Union (USSR). It was a 'Cold' war because we never directly fought them, but we competed in an arms race, space race, and proxy wars for 40 years."
+      },
+      {
+        "text": "Russia",
+        "story": "Russia: The Soviet Union (USSR). It was a 'Cold' war because we never directly fought them, but we competed in an arms race, space race, and proxy wars for 40 years."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 109,
+    "question": "During the Cold War, what was one main concern of the United States?",
+    "answers": [
+      {
+        "text": "Communism",
+        "story": "Communism. The U.S. feared that the Soviet Union would spread communism worldwide, destroying democracy and capitalism."
+      },
+      {
+        "text": "Nuclear war",
+        "story": "Nuclear war: Communism. The U.S. feared that the Soviet Union would spread communism worldwide, destroying democracy and capitalism."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 110,
+    "question": "Why did the United States enter the Korean War?",
+    "answers": [
+      {
+        "text": "To stop the spread of communism",
+        "story": "To stop the spread of communism: To stop Communism. North Korea (communist) invaded South Korea. We sent troops to save the South. The war technically never ended; there's just a ceasefire!"
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 111,
+    "question": "Why did the United States enter the Vietnam War?",
+    "answers": [
+      {
+        "text": "To stop the spread of communism",
+        "story": "To stop the spread of communism: To stop Communism. We feared the 'Domino Theory'—if Vietnam fell to communism, all of Asia would fall. It was a long, controversial, and difficult war."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 112,
+    "question": "What did the civil rights movement do?",
+    "answers": [
+      {
+        "text": "Fought to end racial discrimination",
+        "story": "Fought to end racial discrimination: It fought for equality. Led by MLK and others, it used marches and boycotts to end segregation (Jim Crow laws) and secure voting rights for African Americans."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 113,
+    "question": "Martin Luther King, Jr. is famous for many things. Name one.",
+    "answers": [
+      {
+        "text": "Fought for civil rights",
+        "story": "Fought for civil rights: He fought for civil rights through *non-violence*. He didn't use guns; he used words and marches. His 'I Have a Dream' speech is an American masterpiece."
+      },
+      {
+        "text": "Worked for equality for all Americans",
+        "story": "Worked for equality for all Americans: He fought for civil rights through *non-violence*. He didn't use guns; he used words and marches. His 'I Have a Dream' speech is an American masterpiece."
+      },
+      {
+        "text": "Worked to ensure that people would “not be judged by the color of their skin, but by the content of their character”",
+        "story": "Worked to ensure that people would “not be judged by the color of their skin, but by the content of their character”: He fought for civil rights through *non-violence*. He didn't use guns; he used words and marches. His 'I Have a Dream' speech is an American masterpiece."
+      }
+    ],
+    "is_65_20": true
+  },
+  {
+    "id": 114,
+    "question": "Why did the United States enter the Persian Gulf War?",
+    "answers": [
+      {
+        "text": "To force the Iraqi military from Kuwait",
+        "story": "To force the Iraqi military from Kuwait: Oil and Sovereignty. Saddam Hussein (Iraq) invaded his neighbor Kuwait to steal their oil. The U.S. led a coalition to kick him out and free Kuwait."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 115,
+    "question": "What major event happened on September 11, 2001 in the United States?",
+    "answers": [
+      {
+        "text": "Terrorists attacked the United States",
+        "story": "Terrorists attacked the United States: Terrorists attacked us. AI-Qaeda terrorists hijacked planes and crashed them into the World Trade Center in NY and the Pentagon. Nearly 3,000 people died."
+      },
+      {
+        "text": "Terrorists took over two planes and crashed them into the World Trade Center in New York City",
+        "story": "Terrorists took over two planes and crashed them into the World Trade Center in New York City: Terrorists attacked us. AI-Qaeda terrorists hijacked planes and crashed them into the World Trade Center in NY and the Pentagon. Nearly 3,000 people died."
+      },
+      {
+        "text": "Terrorists took over a plane and crashed into the Pentagon in Arlington, Virginia",
+        "story": "Terrorists took over a plane and crashed into the Pentagon in Arlington, Virginia: Terrorists attacked us. AI-Qaeda terrorists hijacked planes and crashed them into the World Trade Center in NY and the Pentagon. Nearly 3,000 people died."
+      },
+      {
+        "text": "Terrorists took over a plane originally aimed at Washington, D.C., and crashed in a field in Pennsylvania",
+        "story": "Terrorists took over a plane originally aimed at Washington, D.C., and crashed in a field in Pennsylvania: Terrorists attacked us. AI-Qaeda terrorists hijacked planes and crashed them into the World Trade Center in NY and the Pentagon. Nearly 3,000 people died."
+      }
+    ],
+    "is_65_20": true
+  },
+  {
+    "id": 116,
+    "question": "Name one U.S. military conflict after the September 11, 2001 attacks.",
+    "answers": [
+      {
+        "text": "(Global) War on Terror",
+        "story": "(Global) War on Terror: War in Afghanistan. We invaded to find the terrorists (Osama bin Laden) who planned the 9/11 attacks."
+      },
+      {
+        "text": "War in Afghanistan",
+        "story": "War in Afghanistan. We invaded to find the terrorists (Osama bin Laden) who planned the 9/11 attacks."
+      },
+      {
+        "text": "War in Iraq",
+        "story": "War in Iraq: War in Afghanistan. We invaded to find the terrorists (Osama bin Laden) who planned the 9/11 attacks."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 117,
+    "question": "Name one American Indian tribe in the United States.",
+    "answers": [
+      {
+        "text": "Apache",
+        "story": "Apache: A southwestern tribe known for fierce resistance leaders like Geronimo."
+      },
+      {
+        "text": "Blackfeet",
+        "story": "Blackfeet: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      },
+      {
+        "text": "Cayuga",
+        "story": "Cayuga: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      },
+      {
+        "text": "Cherokee",
+        "story": "Cherokee: One of the largest tribes. They were tragically forced from their lands in the southeast on the 'Trail of Tears'."
+      },
+      {
+        "text": "Cheyenne",
+        "story": "Cheyenne: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      },
+      {
+        "text": "Chippewa",
+        "story": "Chippewa: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      },
+      {
+        "text": "Choctaw",
+        "story": "Choctaw: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      },
+      {
+        "text": "Creek",
+        "story": "Creek: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      },
+      {
+        "text": "Crow",
+        "story": "Crow: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      },
+      {
+        "text": "Hopi",
+        "story": "Hopi: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      },
+      {
+        "text": "Huron",
+        "story": "Huron: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      },
+      {
+        "text": "Inupiat",
+        "story": "Inupiat: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      },
+      {
+        "text": "Lakota",
+        "story": "Lakota: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      },
+      {
+        "text": "Mohawk",
+        "story": "Mohawk: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      },
+      {
+        "text": "Mohegan",
+        "story": "Mohegan: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      },
+      {
+        "text": "Navajo",
+        "story": "Navajo: The largest federally recognized tribe. Their 'Code Talkers' used their language to create an unbreakable code during WWII."
+      },
+      {
+        "text": "Oneida",
+        "story": "Oneida: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      },
+      {
+        "text": "Onondaga",
+        "story": "Onondaga: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      },
+      {
+        "text": "Pueblo",
+        "story": "Pueblo: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      },
+      {
+        "text": "Seminole",
+        "story": "Seminole: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      },
+      {
+        "text": "Seneca",
+        "story": "Seneca: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      },
+      {
+        "text": "Shawnee",
+        "story": "Shawnee: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      },
+      {
+        "text": "Sioux",
+        "story": "Sioux: Known for resistance leaders like Sitting Bull and Crazy Horse, and the Battle of Little Bighorn."
+      },
+      {
+        "text": "Teton",
+        "story": "Teton: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      },
+      {
+        "text": "Tuscarora For a complete list of tribes, please visit bia.gov.",
+        "story": "Tuscarora For a complete list of tribes, please visit bia.gov.: One of the many sovereign tribal nations that inhabited North America long before European colonization."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 118,
+    "question": "Name one example of an American innovation.",
+    "answers": [
+      {
+        "text": "Light bulb",
+        "story": "Light bulb. Thomas Edison lit up the world! Also the airplane (Wright Brothers), the telephone (Bell), and landing a man on the Moon."
+      },
+      {
+        "text": "Automobile (cars, internal combustion engine)",
+        "story": "Automobile (cars, internal combustion engine): Light bulb. Thomas Edison lit up the world! Also the airplane (Wright Brothers), the telephone (Bell), and landing a man on the Moon."
+      },
+      {
+        "text": "Skyscrapers",
+        "story": "Skyscrapers: Light bulb. Thomas Edison lit up the world! Also the airplane (Wright Brothers), the telephone (Bell), and landing a man on the Moon."
+      },
+      {
+        "text": "Airplane",
+        "story": "Airplane: Light bulb. Thomas Edison lit up the world! Also the airplane (Wright Brothers), the telephone (Bell), and landing a man on the Moon."
+      },
+      {
+        "text": "Assembly line",
+        "story": "Assembly line: Light bulb. Thomas Edison lit up the world! Also the airplane (Wright Brothers), the telephone (Bell), and landing a man on the Moon."
+      },
+      {
+        "text": "Landing on the moon",
+        "story": "Landing on the moon: Light bulb. Thomas Edison lit up the world! Also the airplane (Wright Brothers), the telephone (Bell), and landing a man on the Moon."
+      },
+      {
+        "text": "Integrated circuit (IC) SYMBOLS AND HOLIDAYS",
+        "story": "Integrated circuit (IC) SYMBOLS AND HOLIDAYS: Light bulb. Thomas Edison lit up the world! Also the airplane (Wright Brothers), the telephone (Bell), and landing a man on the Moon."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 119,
+    "question": "What is the capital of the United States?",
+    "answers": [
+      {
+        "text": "Washington, D.C.",
+        "story": "Washington, D.C. It is not in any state! It's a special federal district (District of Columbia) created so that the national capital wouldn't be controlled by one state."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 120,
+    "question": "Where is the Statue of Liberty?",
+    "answers": [
+      {
+        "text": "New York (Harbor)",
+        "story": "New York (Harbor): New York Harbor. Immigrants arriving by boat would see Lady Liberty lifting her lamp. She was a gift from France to celebrate our freedom."
+      },
+      {
+        "text": "Liberty Island [Also acceptable are New Jersey, near New York City, and on the Hudson (River).]",
+        "story": "Liberty Island [Also acceptable are New Jersey, near New York City, and on the Hudson (River).]: New York Harbor. Immigrants arriving by boat would see Lady Liberty lifting her lamp. She was a gift from France to celebrate our freedom."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 121,
+    "question": "Why does the flag have 13 stripes?",
+    "answers": [
+      {
+        "text": "(Because there were) 13 original colonies",
+        "story": "(Because there were) 13 original colonies: For the original 13 colonies. The stripes preserve the history of our beginning—red for valor, white for purity."
+      },
+      {
+        "text": "(Because the stripes) represent the original colonies",
+        "story": "(Because the stripes) represent the original colonies: For the original 13 colonies. The stripes preserve the history of our beginning—red for valor, white for purity."
+      }
+    ],
+    "is_65_20": true
+  },
+  {
+    "id": 122,
+    "question": "Why does the flag have 50 stars?",
+    "answers": [
+      {
+        "text": "(Because there is) one star for each state",
+        "story": "(Because there is) one star for each state: One star for each state. There are 50 stars now. If we ever add a 51st state (like Puerto Rico), we'll add another star!"
+      },
+      {
+        "text": "(Because) each star represents a state",
+        "story": "(Because) each star represents a state: One star for each state. There are 50 stars now. If we ever add a 51st state (like Puerto Rico), we'll add another star!"
+      },
+      {
+        "text": "(Because there are) 50 states",
+        "story": "(Because there are) 50 states: One star for each state. There are 50 stars now. If we ever add a 51st state (like Puerto Rico), we'll add another star!"
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 123,
+    "question": "What is the name of the national anthem?",
+    "answers": [
+      {
+        "text": "The Star-Spangled Banner",
+        "story": "The Star-Spangled Banner. Francis Scott Key wrote it after watching a battle in 1814. He saw the flag was 'still there' in the morning, meaning we survived."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 124,
+    "question": "The Nation’s first motto was “E Pluribus Unum.” What does that mean?",
+    "answers": [
+      {
+        "text": "Out of many, one",
+        "story": "'Out of many, one'. It's Latin. It means we are 50 separate states and millions of different people, but we come together to form one united nation."
+      },
+      {
+        "text": "We all become one",
+        "story": "We all become one: 'Out of many, one'. It's Latin. It means we are 50 separate states and millions of different people, but we come together to form one united nation."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 125,
+    "question": "What is Independence Day?",
+    "answers": [
+      {
+        "text": "A holiday to celebrate U.S. independence (from Britain)",
+        "story": "A holiday to celebrate U.S. independence (from Britain): America's Birthday! We celebrate July 4th because that's the date on the Declaration of Independence. It's a day of parades, fireworks, and freedom."
+      },
+      {
+        "text": "The country’s birthday",
+        "story": "The country’s birthday: America's Birthday! We celebrate July 4th because that's the date on the Declaration of Independence. It's a day of parades, fireworks, and freedom."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 126,
+    "question": "Name three national U.S. holidays.",
+    "answers": [
+      {
+        "text": "New Year’s Day",
+        "story": "New Year’s Day: Celebrated on January 1st to mark the beginning of the new Gregorian calendar year."
+      },
+      {
+        "text": "Martin Luther King, Jr. Day",
+        "story": "Martin Luther King, Jr. Day: Celebrated in January to honor the civil rights leader's birthday and his fight for equality."
+      },
+      {
+        "text": "Presidents Day (Washington’s Birthday)",
+        "story": "Presidents Day (Washington’s Birthday): Thanksgiving, Christmas, Independence Day. Also MLK Day, Veterans Day, Memorial Day. These days are federal holidays where the government shuts down to celebrate."
+      },
+      {
+        "text": "Memorial Day",
+        "story": "Memorial Day: A solemn day in May to mourn the military personnel who have died while serving in the armed forces."
+      },
+      {
+        "text": "Juneteenth",
+        "story": "Juneteenth: Celebrated on June 19th to commemorate the end of slavery in the U.S. (when news finally reached Texas in 1865)."
+      },
+      {
+        "text": "Independence Day",
+        "story": "Independence Day: July 4th! The anniversary of the publication of the Declaration of Independence in 1776."
+      },
+      {
+        "text": "Labor Day",
+        "story": "Labor Day: Celebrated in September to honor the American labor movement and the contributions of workers."
+      },
+      {
+        "text": "Columbus Day",
+        "story": "Columbus Day: Commemorates the landing of Christopher Columbus in the Americas in 1492."
+      },
+      {
+        "text": "Veterans Day",
+        "story": "Veterans Day: Celebrated in November to honor all military veterans who have served in the U.S. Armed Forces."
+      },
+      {
+        "text": "Thanksgiving Day",
+        "story": "Thanksgiving Day: Thanksgiving, Christmas, Independence Day. Also MLK Day, Veterans Day, Memorial Day. These days are federal holidays where the government shuts down to celebrate."
+      },
+      {
+        "text": "Christmas Day",
+        "story": "Christmas Day: Thanksgiving, Christmas, Independence Day. Also MLK Day, Veterans Day, Memorial Day. These days are federal holidays where the government shuts down to celebrate."
+      }
+    ],
+    "is_65_20": true
+  },
+  {
+    "id": 127,
+    "question": "What is Memorial Day?",
+    "answers": [
+      {
+        "text": "A holiday to honor soldiers who died in military service",
+        "story": "A holiday to honor soldiers who died in military service: Honors those who *died*. It's a solemn day in May to remember soldiers who gave their lives for the country. It's different from Veterans Day."
+      }
+    ],
+    "is_65_20": false
+  },
+  {
+    "id": 128,
+    "question": "What is Veterans Day?",
+    "answers": [
+      {
+        "text": "A holiday to honor people in the (U.S.) military",
+        "story": "A holiday to honor people in the (U.S.) military: Honors *all* veterans. Living or dead. We verify bravery and service of everyone who wore the uniform. It's celebrated in November to mark the end of WWI."
+      },
+      {
+        "text": "A holiday to honor people who have served (in the U.S. military)",
+        "story": "A holiday to honor people who have served (in the U.S. military): Honors *all* veterans. Living or dead. We verify bravery and service of everyone who wore the uniform. It's celebrated in November to mark the end of WWI."
+      }
+    ],
+    "is_65_20": false
+  }
+]

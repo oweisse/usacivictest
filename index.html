@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>USA Civics Test 2025</title>
+    <meta name="description" content="Practice for the 2025 USA Civics Test with our premium quiz application.">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="background-globes"></div>
+    <main class="app-container">
+        <header class="app-header">
+            <div class="header-content">
+                <h1>USA Civics Test <span class="year-badge">2025</span></h1>
+                <p>Master the 128 questions for your citizenship.</p>
+            </div>
+            <div class="controls">
+                <button id="toggle-65-20" class="control-btn" aria-pressed="false"
+                    title="Toggle 65/20 Special Consideration Mode">
+                    <span class="icon">★</span> 65/20 Mode
+                </button>
+                <button id="shuffle-btn" class="icon-btn" title="Shuffle Questions" aria-pressed="false">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M16 3h5v5M4 20L21 3M21 16v5h-5M15 15l5 5M4 4l5 5" />
+                    </svg>
+                    <span>Shuffle</span>
+                </button>
+
+                <button id="always-show-btn" class="icon-btn" title="Always Show Answers" aria-pressed="false">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z" />
+                        <circle cx="12" cy="12" r="3" />
+                    </svg>
+                    <span>Always Show</span>
+                </button>
+
+                <button id="always-expand-btn" class="icon-btn" title="Always Expand Stories" aria-pressed="false">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7" />
+                    </svg>
+                    <span>Always Expand</span>
+                </button>
+                <div class="input-group">
+                    <input type="number" id="jump-input" placeholder="#" min="1" max="128" title="Jump to Question">
+                    <button id="jump-btn" class="control-btn" title="Go">Go</button>
+                </div>
+            </div>
+        </header>
+
+        <section id="quiz-card" class="card">
+            <div class="card-header">
+                <span id="question-counter" class="counter">Question 1 of 128</span>
+                <div class="badges">
+                    <span id="badge-65-20" class="badge badge-star hidden">65/20 Question</span>
+                </div>
+            </div>
+
+            <div class="card-content">
+                <h2 id="question-text">Loading questions...</h2>
+
+                <div id="answer-section" class="answer-section hidden">
+                    <div class="divider"></div>
+                    <h3>Correct Answers</h3>
+                    <ul id="answers-list">
+                        <!-- Answers inserted here -->
+                    </ul>
+                </div>
+            </div>
+
+            <div class="card-footer">
+                <button id="show-answer-btn" class="btn btn-primary">Show Answer</button>
+                <button id="next-btn" class="btn btn-secondary hidden">Next Question</button>
+            </div>
+        </section>
+
+        <nav class="navigation-controls">
+            <button id="prev-btn" class="nav-arrow" aria-label="Previous Question">←</button>
+            <div class="progress-container">
+                <div id="progress-bar" class="progress-bar"></div>
+            </div>
+            <button id="skip-btn" class="nav-arrow" aria-label="Next Question">→</button>
+        </nav>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

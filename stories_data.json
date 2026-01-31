@@ -1,0 +1,447 @@
+{
+  "1": {
+    "DEFAULT": "Think of a 'Republic' like a public park\u2014it belongs to the public, not a king. In a republic, we 'hire' people (representatives) to run the park for us. We don't have a king who owns it. This system was designed to protect the people from the tyranny of a single ruler."
+  },
+  "2": {
+    "DEFAULT": "Imagine the Constitution as the 'Rulebook' for the entire country. Just like in a sport, no player (president) or referee (judge) can make up rules that go against the main Rulebook. It is the highest authority that everyone must follow."
+  },
+  "3": {
+    "DEFAULT": "The Constitution is like the blueprint for a house. It lays the foundation (the government), builds the walls (the branches), and installs the locks (protections for rights) to ensure the house stands strong and safe for its residents."
+  },
+  "4": {
+    "DEFAULT": "The first three words, 'We the People,' are written huge on the document to make a point: The government doesn't give power to the people; the people give power to the government. It\u2019s a radical idea that ordinary citizens are the true bosses."
+  },
+  "5": {
+    "DEFAULT": "The Framers knew they weren't perfect, so they added an 'Update Button' called the Amendment process. This allows the Constitution to grow and change with the times\u2014like ending slavery or letting women vote\u2014without having to throw out the whole government and start over."
+  },
+  "6": {
+    "DEFAULT": "The Bill of Rights is a 'Do Not Touch' list for the government. It draws a line in the sand and says, 'You can govern, but you cannot touch these freedoms'\u2014like your right to speak your mind, pray (or not) as you please, and protest."
+  },
+  "7": {
+    "DEFAULT": "We've only changed the Constitution 27 times in over 230 years! That shows how hard it is to change. The first ten (Bill of Rights) came all at once in 1791. The last one took over 200 years to pass\u2014it prevents Congress from giving themselves an immediate pay raise!"
+  },
+  "8": {
+    "DEFAULT": "The Declaration is like the ultimate breakup letter to a tyrannical King. It didn't just say 'we're leaving'; it explained *why*\u2014arguably the most famous explanation of human rights in history: that we are born free and equal."
+  },
+  "9": {
+    "DEFAULT": "Adopted on July 4, 1776, this document is the birth certificate of the United States. It officially declared that the 13 colonies were no longer under British rule but were free and independent states."
+  },
+  "10": {
+    "DEFAULT": "Two giant ideas: 'Equality' means no one is born a king or a peasant; we all have the same worth. 'Liberty' means you are free to live your life as you see fit, as long as you don't hurt others. These are the twin pillars of American democracy."
+  },
+  "11": {
+    "DEFAULT": "These poetic words are the soul of the American experiment. Thomas Jefferson wrote them in the Declaration of Independence to say that your right to live happy and free isn't a gift from the government\u2014it's a gift from your Creator that no one can take away."
+  },
+  "12": {
+    "DEFAULT": "In a capitalist system, *you* decide what to buy and sell, not the government. It's like a giant farmers market where prices are set by how much people want things (demand) and how much is available (supply), creating competition and innovation."
+  },
+  "13": {
+    "DEFAULT": "The 'Rule of Law' means nobody gets a free pass. Whether you are the President, a billionaire, or a regular citizen, you have to follow the same laws. It\u2019s the great equalizer that prevents corruption and tyranny."
+  },
+  "14": {
+    "DEFAULT": "The Founders didn't invent everything from scratch. They borrowed the idea of a 'social contract' from John Locke, separation of powers from Montesquieu, and likely some democratic principles from the Iroquois Confederacy of Native American tribes."
+  },
+  "15": {
+    "DEFAULT": "Why three branches? To stop a monster! The Founders feared creating a new King, so they split the power into three chunks. Like a game of Rock-Paper-Scissors, each branch can stop the others, ensuring no single person becomes a dictator."
+  },
+  "16": {
+    "DEFAULT": "Legislative writes the recipes (Laws). Executive cooks the meal (Enforces laws). Judicial tastes it to make sure it's safe (Interprets laws). This separation ensures that the power to make, kill, and judge the law isn't in one person's hands."
+  },
+  "17": {
+    "DEFAULT": "The President is the CEO of the Executive Branch. Their job is to execute (carry out) the instructions (laws) given by the Board of Directors (Congress). They also manage the day-to-day operations of the government."
+  },
+  "18": {
+    "DEFAULT": "The Legislative Branch (Congress) is the voice of the people. It's the only part of government that can actually create a new law. No matter what the President wants, they can't make it a law\u2014only Congress can."
+  },
+  "19": {
+    "DEFAULT": "Congress has two houses because the big states wanted power based on population (House) and the small states wanted equal power (Senate). They compromised and did both! This is why we have a bicameral (two-room) Congress."
+  },
+  "20": {
+    "DEFAULT": "Congress holds the 'Power of the Purse'. They control the money! They also have the scary power to declare war. This ensures that the decision to send soldiers to fight is made by many representatives, not just one leader."
+  },
+  "21": {
+    "DEFAULT": "100 Senators. Easy math: 50 states x 2 senators each = 100. It doesn't matter if a state has 40 million people (California) or 600,000 (Wyoming), they both get exactly two voices in the Senate."
+  },
+  "22": {
+    "DEFAULT": "Determined to be the 'wise elders', Senators serve 6 years\u2014the longest term in government (except judges). This allows them to think long-term without worrying about campaigning every single year."
+  },
+  "23": {
+    "DEFAULT": "Your Senators represent your entire state. If you live in Texas, you and every other Texan share the same two Senators. They look out for the statewide interests, from the big cities to the rural farms."
+  },
+  "24": {
+    "DEFAULT": "435 voting members. This number is capped by law. If a state grows huge, it takes seats away from a state that shrank. It's a zero-sum game of political power based on where people live!"
+  },
+  "25": {
+    "DEFAULT": "2 years. It's a very short leash! The Founders wanted Representatives to be constantly worried about what voters think, so they have to run for re-election almost immediately after winning."
+  },
+  "26": {
+    "DEFAULT": "Because they have to face the voters every two years, Representatives are usually quicker to react to public opinion. Senators (6 years) can afford to be more patient and deliberate."
+  },
+  "27": {
+    "DEFAULT": "Each state gets 2 Senators. This was the 'New Jersey Plan' during the founding\u2014ensuring that small states wouldn't be bullied by big states with millions of voters."
+  },
+  "28": {
+    "DEFAULT": "The Founders wanted a balance. The House represents the *population* (power to the people), while the Senate represents the *states* (power to the state governments). This ensures neither mass mobs nor small elites totally dominate."
+  },
+  "29": {
+    "DEFAULT": "Your Representative only speaks for your specific slice of the state (your District). They care about your local libraries, bridges, and schools. To find yours, you just need your zip code!"
+  },
+  "30": {
+    "DEFAULT": "The Speaker of the House is arguably the most powerful person in Congress. They control which bills get voted on. If the President and Vice President both disappear, the Speaker becomes President!"
+  },
+  "31": {
+    "DEFAULT": "A Senator represents *everyone* in the state. Whether you live in the capital or the countryside, they are your voice. This obliges them to balance the needs of diverse groups within their state."
+  },
+  "32": {
+    "DEFAULT": "For the first 125 years, state politicians picked Senators! The 17th Amendment changed this in 1913, giving the power directly to you, the voter. It was a major victory for ordinary citizens."
+  },
+  "33": {
+    "DEFAULT": "A Representative works for the people in their specific geographical district. This makes them the closest link between the federal government and your local neighborhood."
+  },
+  "34": {
+    "DEFAULT": "Only the people living in that specific district can vote for their Representative. This ensures that every community, no matter how unique, has a voice in Washington."
+  },
+  "35": {
+    "DEFAULT": "Because the House is based on population! California has millions of people, so it gets dozens of Reps. Wyoming has fewer people, so it gets just one. This ensures every person's vote has roughly equal weight nationwide."
+  },
+  "36": {
+    "DEFAULT": "4 years. It\u2019s enough time to get things done, but short enough that if they do a bad job, we can fire them (vote them out) relatively soon."
+  },
+  "37": {
+    "DEFAULT": "George Washington set the tradition of leaving after two terms to prove he wasn't a King. Franklin D. Roosevelt broke this tradition (served 4 terms!), so we passed the 22nd Amendment to make the two-term limit an official law."
+  },
+  "38": {
+    "DEFAULT": "The President is the 'Boss' of the Executive Branch. They live in the White House and are responsible for running the federal government."
+  },
+  "39": {
+    "DEFAULT": "The Vice President has two main jobs: Wait in case the President can't serve, and break tie votes in the Senate. They are the 'backup quarterback' of the nation."
+  },
+  "40": {
+    "DEFAULT": "The Vice President steps in. This has happened 9 times in history due to death or resignation! It ensures the government never halts, even in a tragedy."
+  },
+  "41": {
+    "DEFAULT": "The Speaker of the House is next in line. This ensures that if the executive leaders are gone, an elected leader from the Legislative branch (the people's representatives) takes charge."
+  },
+  "42": {
+    "DEFAULT": "The President is the Commander in Chief. This means a civilian\u2014elected by the people\u2014controls the military, not a general. This is a key protection against military dictatorships."
+  },
+  "43": {
+    "DEFAULT": "The President signs bills. A bill is just a piece of paper with an idea until the President's signature turns it into a powerful federal Law."
+  },
+  "44": {
+    "DEFAULT": "Veto means 'I forbid' in Latin. The President can reject a law passed by Congress. However, if Congress *really* wants it, they can vote again and override the President with a 2/3 majority."
+  },
+  "45": {
+    "DEFAULT": "The President picks the judges, but the Senate must check them (confirm them). This ensures the President doesn't just hire their best friends or unqualified people to be judges for life."
+  },
+  "46": {
+    "DEFAULT": "The Executive Branch is huge! It includes the military, the FBI, the Postal Service, and the National Parks. It\u2019s millions of people working to enforce laws and run the country."
+  },
+  "47": {
+    "DEFAULT": "The Cabinet is the President's inner circle of advisors. They run massive departments like Defense and Education. The President can't know everything, so they rely on these experts."
+  },
+  "48": {
+    "Secretary of Agriculture": "Oversees the American farming industry, food safety, and nutrition programs like school lunches.",
+    "Secretary of Commerce": "Promotes job creation and economic growth by supporting U.S. businesses and trade.",
+    "Secretary of Defense": "The CEO of the military. They manage the Army, Navy, Air Force, and Marines to protect national security.",
+    "Secretary of Education": "Sets policies for federal financial aid for schools and collects data on America's schools.",
+    "Secretary of Energy": "Manages the nation's nuclear weapons, energy research, and radioactive waste disposal.",
+    "Secretary of Health and Human Services": "protects the health of all Americans and provides essential human services, including managing the CDC and FDA.",
+    "Secretary of Homeland Security": "Created after 9/11, this department protects the U.S. from terrorist attacks and manages border security.",
+    "Secretary of Housing and Urban Development": "Oversees federal programs designed to help Americans with their housing needs and fair housing laws.",
+    "Secretary of the Interior": "Manages and conserves most federal land and natural resources, including National Parks.",
+    "Secretary of Labor": "Ensures strong working conditions, advances opportunities for profitable employment, and protects benefits.",
+    "Secretary of State": "The nation's top diplomat. They handle foreign affairs and relationships with other countries.",
+    "Secretary of Transportation": "Ensures a fast, safe, efficient, accessible, and convenient transportation system (roads, airports, railways).",
+    "Secretary of the Treasury": "Manages government revenue, prints money, and advises the President on economic policy.",
+    "Secretary of Veterans Affairs": "Provides healthcare services, benefits programs, and access to national cemeteries to former military personnel.",
+    "Attorney General": "The head of the Department of Justice and the chief lawyer of the federal government.",
+    "Vice President": "Ready to take over the Presidency if needed, and also casts tie-breaking votes in the Senate.",
+    "DEFAULT": "Examples: Secretary of State (deals with foreign countries), Secretary of Defense (manages the military), Secretary of the Treasury (manages money)."
+  },
+  "49": {
+    "DEFAULT": "The Electoral College is a unique American system. We win state-by-state points, not just total national votes. It forces candidates to care about many states, not just the massive cities."
+  },
+  "50": {
+    "DEFAULT": "The Supreme Court is the head of the Judicial Branch. Below it are many lower federal courts that handle trials and appeals before they reach the top."
+  },
+  "51": {
+    "Freedom of expression": "You can express your ideas and opinions through art, music, or clothing without government censorship.",
+    "Freedom of speech": "You can criticize the government or share unpopular opinions without fear of going to jail.",
+    "Freedom of assembly": "You can gather peacefully in groups to protest or support a cause.",
+    "Freedom to petition the government": "You can ask the government to fix a problem or change a law.",
+    "Freedom of religion": "You can practice any religion you want, or no religion at all.",
+    "The right to bear arms": "You have the right to own weapons for self-defense, as protected by the Second Amendment.",
+    "DEFAULT": "The Judicial Branch is like the referee. They don't play the game (make laws), but they decide if a play was fair (Constitutional) or a foul (Unconstitutional)."
+  },
+  "52": {
+    "DEFAULT": "The Supreme Court is the 'court of last resort'. Once they decide a case, there is no higher court to appeal to. Their word is final law."
+  },
+  "53": {
+    "DEFAULT": "Nine. One Chief Justice and eight Associates. Why nine? So there can never be a tie vote! Congress sets this number and can change it, but it's been nine since 1869."
+  },
+  "54": {
+    "DEFAULT": "Five. A simple majority (5 out of 9) decides the law for the entire country."
+  },
+  "55": {
+    "DEFAULT": "For life! Once appointed, they can stay until they die or retire. They can't be fired for making an unpopular decision. This allows them to focus on what is *right*, not what is popular."
+  },
+  "56": {
+    "DEFAULT": "Fairness. If judges had to run for re-election, they might rule in favor of rich donors or angry mobs just to keep their job. Lifetime appointments let them follow the Constitution without fear."
+  },
+  "57": {
+    "DEFAULT": "The Chief Justice is the 'first among equals'. They preside over the court and manage its operations, but their vote counts the same as the others."
+  },
+  "58": {
+    "DEFAULT": "To print money! Imagine if every state printed its own cash\u2014it would be chaos. The Feds also declare war and make treaties. These are national issues that need one voice."
+  },
+  "59": {
+    "DEFAULT": "To issue driver\u2019s licenses and run schools. These are local powers. The Constitution assumes if a power isn't listed for the Feds, it belongs to the States."
+  },
+  "60": {
+    "DEFAULT": "The 10th Amendment is the 'State's Rights' shield. It says: 'If the Constitution didn't give this power to the Feds, it belongs to the States or the People.' It prevents the federal government from grabbing total power."
+  },
+  "61": {
+    "DEFAULT": "The Governor is basically the President of the State. They run the state executive branch, sign state laws, and manage the state budget."
+  },
+  "62": {
+    "DEFAULT": "The capital is the political heart of the state, where the Governor lives and the legislature meets to make state laws."
+  },
+  "63": {
+    "DEFAULT": "The 19th Amendment is a big one: It gave women the right to vote in 1920. Before that, half the population had no voice in their own government!"
+  },
+  "64": {
+    "DEFAULT": "Only Citizens. This is a special privilege of membership. While everyone has rights (like free speech), only citizens get to run the government (vote and hold office) or decide guilt in court (jury)."
+  },
+  "65": {
+    "DEFAULT": "Freedom of Speech, Religion, and Assembly. These rights belong to *everyone* on U.S. soil, not just citizens. Even a tourist has the right to remain silent or practice their religion!"
+  },
+  "66": {
+    "DEFAULT": "The United States. The Pledge is a solemn promise to be loyal to the country and the flag that represents 'liberty and justice for all'."
+  },
+  "67": {
+    "DEFAULT": "New citizens promise to 'bear arms' (fight) for the U.S. if asked, and to renounce loyalty to their old country. It's a total commitment to their new home."
+  },
+  "68": {
+    "DEFAULT": "Three common ways: Be born here (Soil), have U.S. parents (Blood), or go through Naturalization (the test!). You can't just buy citizenship; you have to earn or inherit it."
+  },
+  "69": {
+    "DEFAULT": "Vote! And serve on a jury. These are the engines of democracy. Without people voting and judging, the system stops working."
+  },
+  "70": {
+    "DEFAULT": "Serve in the military, run for office, or just volunteer in the community. Helping your neighborhood is helping your country."
+  },
+  "71": {
+    "DEFAULT": "Taxes pay for *everything* we share: the military, interstate highways, national parks, and social safety nets. Without taxes, the government would have $0/year budget."
+  },
+  "72": {
+    "DEFAULT": "In case of a major war (draft). While we have an all-volunteer military now, the Selective Service provides a backup list of men to call upon if the nation faces an existential crisis."
+  },
+  "73": {
+    "DEFAULT": "Freedom! Many fled Europe to escape kings who told them how to pray or taxed them into poverty. They came for religious freedom and economic opportunity."
+  },
+  "74": {
+    "DEFAULT": "Native Americans (American Indians). They inhabited this land for thousands of years, with vast civilizations, languages, and cultures, long before Columbus sailed."
+  },
+  "75": {
+    "DEFAULT": "Africans. Millions were tragically kidnapped, shipped across the ocean in horrific conditions, and sold into slavery. This is the darkest chapter of American history."
+  },
+  "76": {
+    "DEFAULT": "The Revolutionary War (or War of Independence). It was a David vs. Goliath fight where a ragtag group of farmers defeated the most powerful empire in the world (Great Britain)."
+  },
+  "77": {
+    "DEFAULT": "'Taxation without Representation'! The British King taxed their tea, paper, and sugar but didn't let them have a vote in Parliament. The colonists said, 'No vote, no tax!'"
+  },
+  "78": {
+    "DEFAULT": "Thomas Jefferson. He was only 33 years old! He sat in a rented room in Philadelphia and wrote the words that would change the world: 'All men are created equal.'"
+  },
+  "79": {
+    "DEFAULT": "July 4, 1776. That's why we have fireworks in July! It marks the day the colonies officially signed their names to the death warrant of British rule."
+  },
+  "80": {
+    "DEFAULT": "Battle of Saratoga\u2014the turning point that convinced France to help us. Or Yorktown\u2014where the British finally surrendered. The war lasted 8 long years."
+  },
+  "81": {
+    "DEFAULT": "New York, New Jersey, New Hampshire... think of the East Coast! Virginia, Massachusetts, Pennsylvania. These 13 colonies became the first 13 states."
+  },
+  "82": {
+    "DEFAULT": "The Constitution. It was written in the hot summer of 1787 in Philadelphia. The delegates argued for months to create the system we still use today."
+  },
+  "83": {
+    "DEFAULT": "Alexander Hamilton (wrote the most!), James Madison (the genius), and John Jay. They wrote 85 essays arguing why the new Constitution was a good idea."
+  },
+  "84": {
+    "DEFAULT": "They are the best explanation of *why* our government is built this way. Judges and scholars still read them today to understand what the Founders were thinking."
+  },
+  "85": {
+    "DEFAULT": "He was the oldest Founding Father. He was a diplomat who got France to help us in the war, and he invented bifocals and the lightning rod! A true American genius."
+  },
+  "86": {
+    "DEFAULT": "'Father of His Country'. He led the army to victory in the Revolution, then became the first President. He could have been a King, but he chose to step down\u2014his greatest act."
+  },
+  "87": {
+    "Writer of the Declaration of Independence": "At age 33, he wrote the document that declared the U.S. free from Britain and stated that 'all men are created equal'.",
+    "Third president of the United States": "He served two terms from 1801 to 1809, emphasizing a smaller government and agrarian democracy.",
+    "Doubled the size of the United States (Louisiana Purchase)": "In 1803, he bought a massive chunk of land from France for $15 million, extending the U.S. to the Rocky Mountains.",
+    "First Secretary of State": "He served as the very first top diplomat under George Washington.",
+    "Founded the University of Virginia": "He was so proud of this that he put it on his tombstone instead of being President!",
+    "Member of the Continental Congress": "He represented Virginia and helped draft the Articles of Confederation and the Declaration.",
+    "DEFAULT": "He wrote the Declaration of Independence. Later, as President, he bought the Louisiana Territory, doubling the size of the U.S. for dirt cheap!"
+  },
+  "88": {
+    "DEFAULT": "'Father of the Constitution'. James Madison arrived at the convention with the plan for the three branches of government. He also wrote the Bill of Rights."
+  },
+  "89": {
+    "DEFAULT": "First Secretary of the Treasury. He created the U.S. financial system, the national bank, and the Coast Guard. His face is on the $10 bill."
+  },
+  "90": {
+    "DEFAULT": "The Louisiana Territory (Louisiana Purchase). It was massive! It stretched from the Mississippi River to the Rocky Mountains. We bought it from Napoleon (France)."
+  },
+  "91": {
+    "DEFAULT": "The Civil War. Also the War of 1812 (against Britain again) and the Mexican-American War (gained California/Texas). It was a century of expansion and conflict."
+  },
+  "92": {
+    "Slavery": "The South wanted to keep slavery for their plantation economy, while the North largely opposed its expansion.",
+    "Economic reasons": "The industrial North and agricultural South had very different economic needs and disagreed on tariffs.",
+    "States\u2019 rights": "Southern states argued they had the right to ignore federal laws they didn't like, including potential bans on slavery.",
+    "DEFAULT": "The Civil War. It was the deadliest war in U.S. history, pitting brother against brother. The North (Union) fought the South (Confederacy)."
+  },
+  "93": {
+    "DEFAULT": "Gettysburg Address. The Battle of Gettysburg was the turning point. Also the Emancipation Proclamation, where Lincoln declared slaves in the south to be free."
+  },
+  "94": {
+    "Freed the slaves (Emancipation Proclamation)": "He issued the order that declared all slaves in Confederate territory to be forever free.",
+    "Saved (or preserved) the Union": "He refused to let the Southern states break away, fighting a bloody war to keep the United States as one country.",
+    "Led the United States during the Civil War": "He guided the nation through its darkest and deadliest four years.",
+    "DEFAULT": "He saved the Union. Lincoln held the country together during the Civil War and freed the slaves. He was assassinated just days after the war ended."
+  },
+  "95": {
+    "DEFAULT": "It freed the slaves in the Confederate states. It didn't free everyone instantly, but it turned the war into a moral crusade against slavery."
+  },
+  "96": {
+    "DEFAULT": "The Civil War. The North's victory led to the 13th Amendment, which banned slavery forever in the United States."
+  },
+  "97": {
+    "DEFAULT": "14th Amendment. It reversed the Dred Scott decision. It says if you are born here, you are a citizen, period. It guarantees 'equal protection' under the law."
+  },
+  "98": {
+    "DEFAULT": "After the Civil War (1870), the 15th Amendment technically gave Black men the vote. But many states blocked them until the 1960s!"
+  },
+  "99": {
+    "Susan B. Anthony": "She was arrested for voting illegally in 1872! She appeared on the dollar coin and spent her life fighting for suffrage.",
+    "Elizabeth Cady Stanton": "She organized the Seneca Falls Convention in 1848 and wrote the 'Declaration of Sentiments', demanding equality.",
+    "Sojourner Truth": "A former slave who became a powerful speaker. Her famous 'Ain't I a Woman?' speech linked women's rights with abolition.",
+    "Harriet Tubman": "Famous for the Underground Railroad, she was also a suffragist who fought for women's right to vote after the Civil War.",
+    "Lucretia Mott": "A Quaker abolitionist and women's rights activist who helped organize the Seneca Falls Convention.",
+    "Lucy Stone": "She was the first woman in Massachusetts to earn a college degree and kept her maiden name after marriage as a protest.",
+    "DEFAULT": "Susan B. Anthony. She was arrested for voting illegally! She spent her whole life fighting so that women could have a voice. She died before it happened, but her legacy won."
+  },
+  "100": {
+    "World War I": "The 'Great War' (1914-1918). The U.S. joined in 1917 to help the Allies defeat the Central Powers.",
+    "World War II": "The biggest war in history (1939-1945). The U.S. fought Nazi Germany in Europe and Imperial Japan in the Pacific.",
+    "Korean War": "Fought in the early 1950s to stop communist North Korea from taking over South Korea. It ended in a stalemate.",
+    "Vietnam War": "A long conflict (1955-1975) to stop the spread of communism in Vietnam. It was highly controversial in the U.S.",
+    "Persian Gulf War": "Fought in 1991 (Operation Desert Storm) to liberate Kuwait after it was invaded by Iraq's Saddam Hussein.",
+    "DEFAULT": "World War I and World War II. These global conflicts defined the century and established the U.S. as a superpower."
+  },
+  "101": {
+    "DEFAULT": "Germany was sinking our ships (Lusitania) and tried to get Mexico to attack us (Zimmerman Note). We couldn't stay neutral anymore."
+  },
+  "102": {
+    "DEFAULT": "1920. The 19th Amendment finally passed after decades of protests. Millions of women voted for the first time in that year's election."
+  },
+  "103": {
+    "DEFAULT": "A massive economic crash. In the 1930s, banks failed, and 25% of Americans were unemployed. People lost their life savings and homes."
+  },
+  "104": {
+    "DEFAULT": "1929. The stock market crashed in October ('Black Tuesday'), wiping out fortunes overnight and triggering the global depression."
+  },
+  "105": {
+    "DEFAULT": "Franklin D. Roosevelt (FDR). He told Americans, 'The only thing we have to fear is fear itself.' He was elected four times and led the U.S. through its hardest years."
+  },
+  "106": {
+    "DEFAULT": "Pearl Harbor. Japan attacked the U.S. naval base in Hawaii on Dec 7, 1941. The next day, we declared war on Japan and its ally, Nazi Germany."
+  },
+  "107": {
+    "DEFAULT": "He was a General. Before he was President, 'Ike' was the Supreme Commander of Allied forces in Europe and planned D-Day, the invasion that liberated France."
+  },
+  "108": {
+    "DEFAULT": "The Soviet Union (USSR). It was a 'Cold' war because we never directly fought them, but we competed in an arms race, space race, and proxy wars for 40 years."
+  },
+  "109": {
+    "DEFAULT": "Communism. The U.S. feared that the Soviet Union would spread communism worldwide, destroying democracy and capitalism."
+  },
+  "110": {
+    "DEFAULT": "To stop Communism. North Korea (communist) invaded South Korea. We sent troops to save the South. The war technically never ended; there's just a ceasefire!"
+  },
+  "111": {
+    "DEFAULT": "To stop Communism. We feared the 'Domino Theory'\u2014if Vietnam fell to communism, all of Asia would fall. It was a long, controversial, and difficult war."
+  },
+  "112": {
+    "DEFAULT": "It fought for equality. Led by MLK and others, it used marches and boycotts to end segregation (Jim Crow laws) and secure voting rights for African Americans."
+  },
+  "113": {
+    "DEFAULT": "He fought for civil rights through *non-violence*. He didn't use guns; he used words and marches. His 'I Have a Dream' speech is an American masterpiece."
+  },
+  "114": {
+    "DEFAULT": "Oil and Sovereignty. Saddam Hussein (Iraq) invaded his neighbor Kuwait to steal their oil. The U.S. led a coalition to kick him out and free Kuwait."
+  },
+  "115": {
+    "DEFAULT": "Terrorists attacked us. AI-Qaeda terrorists hijacked planes and crashed them into the World Trade Center in NY and the Pentagon. Nearly 3,000 people died."
+  },
+  "116": {
+    "DEFAULT": "War in Afghanistan. We invaded to find the terrorists (Osama bin Laden) who planned the 9/11 attacks."
+  },
+  "117": {
+    "Cherokee": "One of the largest tribes. They were tragically forced from their lands in the southeast on the 'Trail of Tears'.",
+    "Navajo": "The largest federally recognized tribe. Their 'Code Talkers' used their language to create an unbreakable code during WWII.",
+    "Sioux": "Known for resistance leaders like Sitting Bull and Crazy Horse, and the Battle of Little Bighorn.",
+    "Apache": "A southwestern tribe known for fierce resistance leaders like Geronimo.",
+    "Iroquois": "Their Confederacy (Haudenosaunee) is one of the world's oldest participatory democracies and influenced the U.S. Constitution.",
+    "DEFAULT": "One of the many sovereign tribal nations that inhabited North America long before European colonization."
+  },
+  "118": {
+    "DEFAULT": "Light bulb. Thomas Edison lit up the world! Also the airplane (Wright Brothers), the telephone (Bell), and landing a man on the Moon."
+  },
+  "119": {
+    "DEFAULT": "Washington, D.C. It is not in any state! It's a special federal district (District of Columbia) created so that the national capital wouldn't be controlled by one state."
+  },
+  "120": {
+    "DEFAULT": "New York Harbor. Immigrants arriving by boat would see Lady Liberty lifting her lamp. She was a gift from France to celebrate our freedom."
+  },
+  "121": {
+    "DEFAULT": "For the original 13 colonies. The stripes preserve the history of our beginning\u2014red for valor, white for purity."
+  },
+  "122": {
+    "DEFAULT": "One star for each state. There are 50 stars now. If we ever add a 51st state (like Puerto Rico), we'll add another star!"
+  },
+  "123": {
+    "DEFAULT": "The Star-Spangled Banner. Francis Scott Key wrote it after watching a battle in 1814. He saw the flag was 'still there' in the morning, meaning we survived."
+  },
+  "124": {
+    "DEFAULT": "'Out of many, one'. It's Latin. It means we are 50 separate states and millions of different people, but we come together to form one united nation."
+  },
+  "125": {
+    "DEFAULT": "America's Birthday! We celebrate July 4th because that's the date on the Declaration of Independence. It's a day of parades, fireworks, and freedom."
+  },
+  "126": {
+    "New Year\u2019s Day": "Celebrated on January 1st to mark the beginning of the new Gregorian calendar year.",
+    "Martin Luther King, Jr. Day": "Celebrated in January to honor the civil rights leader's birthday and his fight for equality.",
+    "Presidents\u2019 Day": "Celebrated in February, originally to honor George Washington, now honoring all presidents.",
+    "Memorial Day": "A solemn day in May to mourn the military personnel who have died while serving in the armed forces.",
+    "Juneteenth": "Celebrated on June 19th to commemorate the end of slavery in the U.S. (when news finally reached Texas in 1865).",
+    "Independence Day": "July 4th! The anniversary of the publication of the Declaration of Independence in 1776.",
+    "Labor Day": "Celebrated in September to honor the American labor movement and the contributions of workers.",
+    "Columbus Day": "Commemorates the landing of Christopher Columbus in the Americas in 1492.",
+    "Veterans Day": "Celebrated in November to honor all military veterans who have served in the U.S. Armed Forces.",
+    "Thanksgiving": "A harvest festival celebrated in November, modeled on a 1621 harvest feast sharing between Colonists and the Wampanoag.",
+    "Christmas": "Celebrated on December 25th, originally a Christian holiday, now also a federal holiday.",
+    "DEFAULT": "Thanksgiving, Christmas, Independence Day. Also MLK Day, Veterans Day, Memorial Day. These days are federal holidays where the government shuts down to celebrate."
+  },
+  "127": {
+    "DEFAULT": "Honors those who *died*. It's a solemn day in May to remember soldiers who gave their lives for the country. It's different from Veterans Day."
+  },
+  "128": {
+    "DEFAULT": "Honors *all* veterans. Living or dead. We verify bravery and service of everyone who wore the uniform. It's celebrated in November to mark the end of WWI."
+  }
+}
