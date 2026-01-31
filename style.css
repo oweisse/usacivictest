@@ -31,11 +31,13 @@ body {
     font-family: var(--font-main);
     background-color: var(--bg-color);
     color: var(--text-color);
-    min-height: 100vh;
+    height: 100vh;
+    /* Fixed height */
+    overflow: hidden;
+    /* No page scroll */
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow-x: hidden;
     background-image:
         radial-gradient(circle at 10% 20%, rgba(56, 189, 248, 0.1) 0%, transparent 20%),
         radial-gradient(circle at 90% 80%, rgba(244, 63, 94, 0.1) 0%, transparent 20%);
@@ -44,16 +46,22 @@ body {
 .app-container {
     width: 100%;
     max-width: 95%;
-    padding: 2rem;
+    height: 100vh;
+    /* Full viewport height */
+    padding: 1rem;
+    /* Reduced padding */
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 1rem;
+    /* Reduced gap */
     position: relative;
     z-index: 10;
 }
 
 /* Header */
 .app-header {
+    flex-shrink: 0;
+    /* Don't shrink header */
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -158,14 +166,24 @@ h1 {
     border: 1px solid var(--card-border);
     backdrop-filter: blur(12px);
     border-radius: 24px;
-    padding: 2.5rem;
+    padding: 2rem;
+    /* Slightly reduced */
     box-shadow: var(--shadow-lg);
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
-    min-height: 400px;
+
+    /* Flex magic for full height fitting */
+    flex: 1;
+    min-height: 0;
+    /* Crucial: allows child scroll */
+    max-height: none;
+    /* Remove manual limit */
+
     position: relative;
     transition: var(--transition);
+    overflow: hidden;
+    /* Contain children */
 }
 
 .card:hover {
@@ -206,6 +224,26 @@ h1 {
     flex-direction: column;
     justify-content: center;
     gap: 2rem;
+    overflow-y: auto;
+    /* Enable scrolling for content */
+    min-height: 0;
+    /* Required for flex child scrolling */
+    scrollbar-width: thin;
+    /* Firefox */
+}
+
+/* Chrome/Safari Scrollbar for card-content */
+.card-content::-webkit-scrollbar {
+    width: 6px;
+}
+
+.card-content::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.card-content::-webkit-scrollbar-thumb {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 20px;
 }
 
 @media (min-width: 800px) {
@@ -214,8 +252,8 @@ h1 {
         grid-template-columns: 2fr 3fr;
         /* Question 40%, Answers 60% */
         gap: 3rem;
-        align-items: center;
-        /* Center vertically */
+        align-items: start;
+        /* Align to top so scrolling looks natural */
         text-align: left;
     }
 
@@ -276,9 +314,9 @@ ul {
     display: flex;
     flex-direction: column;
     gap: 0.75rem;
-    /* Scrollable Answer Pane */
-    max-height: 60vh;
-    overflow-y: auto;
+    /* Remove separate scroll from here, let card-content handle it */
+    /* max-height: 60vh; */
+    /* overflow-y: auto; */
     padding-right: 0.5rem;
     /* Space for scrollbar */
     /* Scrollbar Styling */

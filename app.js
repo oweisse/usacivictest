@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     // Load Data
-    fetch('questions.json')
+    fetch('questions.json?v=' + Date.now())
         .then(res => res.json())
         .then(data => {
             state.questions = data;
